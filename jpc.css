@@ -1,0 +1,11 @@
+.navbar-brand {
+height: 80px;
+}
+
+.navbar-default {
+  margin: 5%;
+}
+
+img[src$="ojs_brand.png"] {
+  height: 40px;
+}
