@@ -4,7 +4,12 @@ Copyright is retained by the authors. By submitting to this journal, the author(
 
 ### Formatting 
 
-- The text should be single-spaced; uses the same 10pt serif font (e.g. times) throughout; uses a single column layout with both left and right margins justified; has letter page size (8.5 x 11- inches) and 1in margins.
+- The text should be
+  - single-spaced;
+  - uses the same 10pt serif font (e.g. times) throughout;
+  - uses a single column layout with both left and right margins justified;
+  - has letter page size (8.5 x 11 inches)
+  - has 1 inch margins.
 - Use the following document structure:
   - Title page, including Authors, Keywords
   - Abstract
