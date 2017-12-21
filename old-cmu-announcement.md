@@ -23,6 +23,6 @@ It was Steve Fienberg's wish that the Journal continue its activities, and the e
 
 # The new website is now open.
 
-Please submit your submission at http://www.journalprivacyconfidentiality.org.
+Please submit your manuscript at http://www.journalprivacyconfidentiality.org.
 
 Should you encounter any difficulties, please contact the Editors at [editor@journalprivacyconfidentiality.org](mailto:editor@journalprivacyconfidentiality.org)  or Managing Editor Lars Vilhuber at [managing-editor@journalprivacyconfidentiality.org](managing-editor@journalprivacyconfidentiality.org).
