@@ -1,9 +1,6 @@
 # Reviewer Guidelines
-*Provide reviewers with criteria for judging a submission's suitability for publication in the journal,
-which may include instructions for preparing an effective and helpful review. Reviewers will have an opportunity to
-provide comments intended for the author and editor, as well as separate comments only for the editor.*
 
-The JPC operates on a single-review-cycle decision model that is also single-blind. Authors do not know the identity of their reviewers. Reviewers are expected to give a recommendation to publish or not based upon the manuscript they have received. A recommendation to publish may be accompanied by a list of recommended revisions that the editor should request of the authors.
+The Journal operates on a single-review-cycle decision model that is also single-blind. Authors do not know the identity of their reviewers. Reviewers are expected to give a recommendation to publish or not based upon the manuscript they have received. A recommendation to publish may be accompanied by a list of recommended revisions that the editor should request of the authors.
 
 Reviewers should prepare separate recommendations to the editor and comments for the authors. Comments to the authors will be transmitted as prepared, so reviewers should take care not to compromise their anonymity unintentionally. Reviewers who chose to reveal their identity to the authors may do so.
 
@@ -15,4 +12,4 @@ If the authors have declared upon submission that the article is based on a prev
 
 Reviewers should declare any conflicts of interest when they accept the request to review a paper. A conflict of interest exists when there is a relationship between the reviewer and at least one of the authors, such as co-principal investigator status on a current grant, that might bias the review. The editor will decide whether to reassign the manuscript once the conflict of interest has been declared.
 
-The JPC will not participate in peer-review evaluations that might compromise the anonymity of the reviewers without the explicit written permission of the reviewers.
+The Journal will not participate in peer-review evaluations that might compromise the anonymity of the reviewers without the explicit written permission of the reviewers.
