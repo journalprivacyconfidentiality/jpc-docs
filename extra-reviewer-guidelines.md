@@ -2,7 +2,7 @@
 
 The Journal operates on a single-review-cycle decision model that is also single-blind. Authors do not know the identity of their reviewers. Reviewers are expected to give a recommendation to publish or not based upon the manuscript they have received. A recommendation to publish may be accompanied by a list of recommended revisions that the editor should request of the authors.
 
-Reviewers should prepare separate recommendations to the editor and comments for the authors. Comments to the authors will be transmitted as prepared, so reviewers should take care not to compromise their anonymity unintentionally. Reviewers who chose to reveal their identity to the authors may do so.
+Reviewers should prepare separate recommendations to the editor and comments for the authors. Comments to the authors will be transmitted as prepared, so reviewers should take care not to compromise their anonymity unintentionally. Reviewers who choose to reveal their identity to the authors may do so.
 
 Reviewers are expected to complete their assignments within *three months*. Authors are expected to complete required revisions within *one month* of receiving a decision. Upon receipt of the revised manuscript, an editor may ask the reviewer to confirm that the revisions meet the recommendations. The editor may also accept the revised manuscript without further consulting the reviewers.
 
