@@ -1,13 +1,13 @@
 # Code and Data Availability Policy
 
-The Journal  requires authors to make all code and data underlying the findings described in their manuscript fully available
-without restriction, with rare exceptions.
+When submitting the manuscript, authors must provide a `Code and Data Availability Statement` describing compliance with the Journal's policy, outlined below.The editors will assess the declarations made in the statement prior to publication. The Journal's editors encourage authors to contact them if they believe they will encounter difficulties in complying with the policy. If the article is accepted for publication, the `Code and Data availability statement` will be published as a supplement to the final article. We outline the policy and required information below, as well as providing some guidance and examples on how to comply with this policy.
 
-When submitting the manuscript, authors must provide a `Code and Data Availability Statement` describing compliance with this policy. The editors will assess the declarations made in the statement prior to publication. The Journal's editors encourage authors to contact them if they believe they will encounter difficulties in complying with the policy.
+## Basic Policy
+The Journal requires authors to make all code and, if possible, data underlying the findings described in their manuscript available without restriction. If data cannot be made available due to confidentiality concerns, then this should be stated, together with a description of how others could potentially access the data.
 
-If the article is accepted for publication, the `Code and Data availability statement` will be published as a supplement to the final article. The Journal does NOT publish supplementary materials itself.
+Code and, where appropriate, data shall be deposited in  repositories that meet accepted criteria as trustworthy digital repositories. The Journal does NOT publish supplementary materials itself. Personal websites, links to subscription-based online storage facilities (Dropbox, Google Drive, etc.), and online code repositories (Github, Bitbucket, etc.) are generally not acceptable, as they do not ensure persistence.
 
-The Journal strongly encourages authors to also cite acceptable code and data repositories. In general, acceptable code and data repositories provide persistent identifiers, such as DOIs, and maintain robust long-term archives. Personal websites, links to subscription-based online storage facilities (Dropbox, Google Drive, etc.), and online code repositories (Github, Bitbucket, etc.) are generally not acceptable, as they do not ensure persistence. We provide some guidance below.
+The Journal strongly encourages authors to also cite acceptable code and data repositories as part of the references. In general, acceptable code and data repositories provide persistent identifiers, such as DOIs, and maintain robust long-term archives.  
 
 This data policy was implemented on January 1, 2018. Any paper *submitted* before that date will not have a data availability statement.
 
