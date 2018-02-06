@@ -27,7 +27,8 @@ Copyright is retained by the authors. By submitting to this journal, the author(
 - While LaTex is the preferred source format, Word and RTF files will be accepted as well.
 
 ### ADDITIONAL CONSIDERATIONS
-- Articles that are substantial enhancements of previously published peer-reviewed conference papers are acceptable. A copy of the previously published peer-reviewed conference paper or its digital object identifier should be provided on submission. The JPC will independently verify the originality of the submitted manuscript. Submissions of manuscripts that have been placed in online preprint repositories like arxiv.org and SSRN are allowed provided that they meet the other conditions in these guidelines.
+- Articles that were previously published as peer-reviewed conference papers are acceptable. A copy of the previously published peer-reviewed conference paper or its digital object identifier should be provided on submission. 
+- Submissions of manuscripts that have been placed in online preprint repositories like arxiv.org and SSRN are allowed provided that they meet the other conditions in these guidelines.
 - Authors are the initial owners of the copyrights to their works (an exception in the non-academic world to this might exist if the authors have, as a condition of employment, agreed to transfer copyright to their employer).
 - Each author materially contributed to the creation of the paper.
 - Submissions will be reviewed according to our [Reviewer Guidelines](/index.php/jpc/reviewer-guidelines)
