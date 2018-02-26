@@ -21,3 +21,8 @@ a:hover, a:focus {
   background-image: linear-gradient(#642827, #642827 6%, #642827);
   border: 1px solid #642827;
 }
+
+.orcid::after {
+  content: "\a";
+  white-space: pre;
+}
