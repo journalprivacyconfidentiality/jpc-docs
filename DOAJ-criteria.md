@@ -55,6 +55,7 @@ vi) Journal's policy on intellectual property; and
   See https://journalprivacyconfidentiality.org/index.php/jpc/about/submissions
 
 vii) Journal's options for post-publication discussions and corrections.
+  Retractions: https://publicationethics.org/files/retraction%20guidelines_0.pdf
 
 [ ] Publishing schedule
 The periodicity at which a journal publishes shall be clearly indicated.
