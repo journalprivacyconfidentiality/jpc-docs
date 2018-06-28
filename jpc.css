@@ -26,3 +26,10 @@ a:hover, a:focus {
   content: "\a";
   white-space: pre;
 }
+
+.label::after {
+  content: "*";
+  font-weight: 700;
+  color: #d00a6c;
+  padding-left: 0.25em;
+}
