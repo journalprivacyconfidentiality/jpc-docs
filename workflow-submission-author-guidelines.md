@@ -12,8 +12,8 @@ Short sections of text, not to exceed two  paragraphs,  may  be  quoted  without
   - be single-spaced;
   - use the same 11pt serif font (e.g. Computer Modern for LaTeX documents, Times New Roman for Word) throughout;
   - use a single column layout with both left and right margins justified;
-  - have letter page size (8.5 x 11 inches)
-  - have 1.5 inch top margin, 1.25 inch left and right margins, and 1 inch bottom margin
+  - have letter page size (8.5 x 11 inches);
+  - have **1.5 inch** top margin, **1.25 inch** left and right margins, and **1 inch** bottom margin
 - Use the following document structure:
   - Title page, including Authors, Keywords
   - Abstract
