@@ -7,7 +7,7 @@ Short sections of text, not to exceed two  paragraphs,  may  be  quoted  without
 ### Formatting 
 
 - While LaTex is the strongly preferred source format, Microsoft Word files will be accepted as well (functionality, such as hyperlinks, will be lost when using Word).
-- For LaTeX, use the `jpc.cls` class, which will enforce the rules below. 
+- For LaTeX, use the `jpc.cls` class, which will enforce the rules below. The `jpc.cls` can be downloaded from https://github.com/journalprivacyconfidentiality/jpc-style/releases or as a template on [Overleaf.com](https://overleaf.com).
 - The text should
   - be single-spaced;
   - use the same 11pt serif font (e.g. Computer Modern for LaTeX documents, Times New Roman for Word) throughout;
