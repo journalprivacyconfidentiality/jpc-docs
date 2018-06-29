@@ -1,1 +1,9 @@
-# These are guidelines for preparing JPC manuscripts
+# Guidelines for preparing JPC manuscripts
+
+## LaTeX submissions
+
+[SOP-latex](SOP-latex.md)
+
+## Word submissions
+
+[SOP-word](SOP-word.md)
