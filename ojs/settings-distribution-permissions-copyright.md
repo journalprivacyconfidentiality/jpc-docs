@@ -1,0 +1,3 @@
+Copyright is retained by the authors. By submitting to this journal, the author(s) license the article under the [Creative Commons License – Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/), unless choosing a more lenient license (for instance, public domain). Furthermore, the authors of articles published by the journal grant the journal the right to store the articles in its databases for an unlimited period of time and to distribute and reproduce the articles electronically. 
+
+Short sections of text, not to exceed two  paragraphs,  may  be  quoted  without  explicit  permission  provided  that  full  credit, including © notice, is given to the source.
