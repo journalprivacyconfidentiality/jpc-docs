@@ -23,7 +23,7 @@ https://github.com/journalprivacyconfidentiality/jpc-style/blob/7a97f43817b14df6
 ```
 
 ## Step 1
-Create an Git repository private repository in the JPC Github for the manuscript, and add the author's files to it.
+Create a Git repository private repository in the JPC Github for the manuscript, and add the author's files to it.
 
 - https://github.com/journalprivacyconfidentiality
 - name of repository: `jpc-manuscript-###`
