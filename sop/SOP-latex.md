@@ -33,9 +33,11 @@ where ### is the manuscript number.
 Adding files can be done through drag-and-drop on Github.
 
 ## Step 2
-Add the editorial supplementary files to it [source](https://github.com/journalprivacyconfidentiality/jpc-style/releases/tag/v091jpc-editorial) to the repository.
+Add the editorial supplementary files ([source](https://github.com/journalprivacyconfidentiality/jpc-style/releases/tag/v091jpc-editorial)) to the repository.
 
 Adding files can be done through drag-and-drop on Github.
+
+Caution: you need to retain the directory structure! Do not drag-and-drop the ZIP file, only its contents.
 
 ## Step 3
 Create a  linked Overleaf v2 document
