@@ -38,6 +38,10 @@ Add the editorial supplementary files ([source](https://github.com/journalprivac
 Adding files can be done through drag-and-drop on Github.
 
 Caution: you need to retain the directory structure! Do not drag-and-drop the ZIP file, only its contents.
+From the ZIP file, unzip and move only the following: 
+the tmpl-images folder
+jpc.cls
+jpsfinal.cls
 
 ## Step 3
 Create a  linked Overleaf v2 document
@@ -60,3 +64,9 @@ In the Overleaf interface, Change the top of the AUTHOR's primary file by ensuri
 %%% last changed 2018-06-29 =====================================
 ```
 The DOI will be determined once the article is assigned to an issue by the Managing Editor. For now, this should simply be checked for clean compilation.
+
+## Step 5
+Add to the readme not just the manuscript number, but once you've pulled it into Overleaf, add 
+'## On Overleaf'
+
+For each Overleaf linked to a JPC article on Github,  invite lars.vilhuber@cornell.edu to the Overleaf folder
