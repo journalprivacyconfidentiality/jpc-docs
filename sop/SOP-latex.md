@@ -32,6 +32,8 @@ where ### is the manuscript number.
 
 Adding files can be done through drag-and-drop on Github.
 
+When creating a repository, go into settings, "Collaborators & Teams" and add the "Copyediting team" to the repository, and give it write permissions.
+
 ## Step 2
 Add the editorial supplementary files ([source](https://github.com/journalprivacyconfidentiality/jpc-style/releases/tag/v091jpc-editorial)) to the repository.
 
