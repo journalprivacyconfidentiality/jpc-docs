@@ -81,5 +81,6 @@ For each Overleaf linked to a JPC article on Github,  invite lars.vilhuber@corne
 
 ## Step 6: Copy-editing
 - Check the URLs for validity
+- flag URLs that are not properly layoutted, and any other layout problems (fix, or make a Github issue)
 - Check that all images and tables are formatted as in the submitted PDF
 - Check that all references resolve (no `(?)` in the generated PDF
