@@ -53,8 +53,27 @@ Create a  linked Overleaf v2 document
 - New Project -> Import from GitHub
 - You should see the linked JPC Github repositories. Pick the one you created in Step 1.
 
-## Step 4
-In the Overleaf interface, Change the top of the AUTHOR's primary file by ensuring it contains the following lines (note the comments):
+
+
+## Step 5
+Add to the README not just the manuscript number, but once you've pulled it into Overleaf, add 
+```
+(URL) On Overleaf
+```
+where `(URL)` is the complete URL of the linked Overleaf document.
+
+For each Overleaf linked to a JPC article on Github,  invite lars.vilhuber@cornell.edu to the Overleaf folder
+
+## Step 6: Copy-editing
+### Comparison to submitted file
+- Check that all images and tables are formatted as in the submitted PDF
+- Check that all references resolve (no `(?)` in the generated PDF
+- Flag any issues with a "Github issue" for the Github repo
+- If the generated PDF looks like the submitted PDF, 
+  - make a sync from Overleaf to Github
+  - create a tag on Github 
+### Final layouting
+ In the Overleaf interface, Change the top of the AUTHOR's primary file by ensuring it contains the following lines (note the comments):
 
 ```
 \documentclass{jpcfinal} %%% last changed 2014-08-20
@@ -68,19 +87,13 @@ In the Overleaf interface, Change the top of the AUTHOR's primary file by ensuri
 ```
 The DOI will be determined once the article is assigned to an issue by the Managing Editor. For now, this should simply be checked for clean compilation.
 
-Do not forget to sync back to Github!
-
-## Step 5
-Add to the README not just the manuscript number, but once you've pulled it into Overleaf, add 
-```
-(URL) On Overleaf
-```
-where `(URL)` is the complete URL of the linked Overleaf document.
-
-For each Overleaf linked to a JPC article on Github,  invite lars.vilhuber@cornell.edu to the Overleaf folder
-
-## Step 6: Copy-editing
+Also:
 - Check the URLs for validity
 - flag URLs that are not properly layoutted, and any other layout problems (fix, or make a Github issue)
-- Check that all images and tables are formatted as in the submitted PDF
-- Check that all references resolve (no `(?)` in the generated PDF
+
+Once everything looks clean, 
+- make a sync from Overleaf to Github
+- download the PDF from Overleaf
+- Upload the PDF to Github 
+- create a **release** on Github, calling it 'final'
+- upload the PDF as the final copyedited file back into OJS
