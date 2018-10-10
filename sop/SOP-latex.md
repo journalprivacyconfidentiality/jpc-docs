@@ -37,13 +37,14 @@ When creating a repository, go into settings, "Collaborators & Teams" and add th
 ## Step 2
 Add the editorial supplementary files ([source](https://github.com/journalprivacyconfidentiality/jpc-style/releases/tag/v091jpc-editorial)) to the repository.
 
-Adding files can be done through drag-and-drop on Github.
+- Caution: you need to retain the directory structure! 
+- Adding files can be done through drag-and-drop on Github.
+- Do not drag-and-drop the ZIP file, only its contents.
 
-Caution: you need to retain the directory structure! Do not drag-and-drop the ZIP file, only its contents.
 From the ZIP file, unzip and move only the following: 
-the tmpl-images folder
-jpc.cls
-jpsfinal.cls
+- the `tmpl-images`  folder
+- `jpc.cls` (if not already present)
+- `jpsfinal.cls`
 
 ## Step 3
 Create a  linked Overleaf v2 document
@@ -67,8 +68,18 @@ In the Overleaf interface, Change the top of the AUTHOR's primary file by ensuri
 ```
 The DOI will be determined once the article is assigned to an issue by the Managing Editor. For now, this should simply be checked for clean compilation.
 
+Do not forget to sync back to Github!
+
 ## Step 5
-Add to the readme not just the manuscript number, but once you've pulled it into Overleaf, add 
-'## On Overleaf'
+Add to the README not just the manuscript number, but once you've pulled it into Overleaf, add 
+```
+(URL) On Overleaf
+```
+where `(URL)` is the complete URL of the linked Overleaf document.
 
 For each Overleaf linked to a JPC article on Github,  invite lars.vilhuber@cornell.edu to the Overleaf folder
+
+## Step 6: Copy-editing
+- Check the URLs for validity
+- Check that all images and tables are formatted as in the submitted PDF
+- Check that all references resolve (no `(?)` in the generated PDF
