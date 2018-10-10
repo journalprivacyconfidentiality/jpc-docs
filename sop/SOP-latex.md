@@ -35,6 +35,11 @@ Adding files can be done through drag-and-drop on Github.
 When creating a repository, go into settings, "Collaborators & Teams" and add the "Copyediting team" to the repository, and give it write permissions.
 
 ## Step 2
+Download the files from the Copyediting step in the journal system (exceptionally, this might be the Review stage).
+- Add to the repository (drag and drop)
+- rename the files to their original names! (consult the journal system)
+
+## Step 3
 Add the editorial supplementary files ([source](https://github.com/journalprivacyconfidentiality/jpc-style/releases/tag/v091jpc-editorial)) to the repository.
 
 - Caution: you need to retain the directory structure! 
@@ -46,7 +51,7 @@ From the ZIP file, unzip and move only the following:
 - `jpc.cls` (if not already present)
 - `jpsfinal.cls`
 
-## Step 3
+## Step 4
 Create a  linked Overleaf v2 document
 
 - https://v2.overleaf.com/project
@@ -55,7 +60,7 @@ Create a  linked Overleaf v2 document
 
 
 
-## Step 5
+## Step 6
 Add to the README not just the manuscript number, but once you've pulled it into Overleaf, add 
 ```
 (URL) On Overleaf
@@ -64,7 +69,7 @@ where `(URL)` is the complete URL of the linked Overleaf document.
 
 For each Overleaf linked to a JPC article on Github,  invite lars.vilhuber@cornell.edu to the Overleaf folder
 
-## Step 6: Copy-editing
+## Step 7: Copy-editing
 ### Comparison to submitted file
 - Check that all images and tables are formatted as in the submitted PDF
 - Check that all references resolve (no `(?)` in the generated PDF
