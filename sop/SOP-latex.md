@@ -96,6 +96,7 @@ In the Overleaf interface, after the lines `\begin{document}`,add
 ```
 
 Also:
+- check for right-margin overflows (tricky!)
 - check the log files
 - Check the URLs for validity
 - flag URLs that are not properly layoutted, and any other layout problems (fix, or make a Github issue)
