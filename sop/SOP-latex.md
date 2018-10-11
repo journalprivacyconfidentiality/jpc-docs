@@ -26,18 +26,15 @@ https://github.com/journalprivacyconfidentiality/jpc-style/blob/7a97f43817b14df6
 Create a Git repository private repository in the JPC Github for the manuscript, and add ALL the author's files to it (regardless of revision date).
 
 - https://github.com/journalprivacyconfidentiality
-- name of repository: `jpc-manuscript-###`
-
-where ### is the manuscript number.
-
-Adding files can be done through drag-and-drop on Github.
-
-When creating a repository, go into settings, "Collaborators & Teams" and add the "Copyediting team" to the repository, and give it write permissions.
+- name of repository: `jpc-manuscript-###` where ### is the manuscript number. 
+- Check the field "Initialize with a README"
+- go into settings, "Collaborators & Teams" and add the "Copyediting team" to the repository, and give it write permissions.
 
 ## Step 2
 Download the files from the Copyediting step in the journal system (exceptionally, this might be the Review stage).
-- Add to the repository (drag and drop)
+- Add ALL FILES to the repository (drag and drop)
 - rename the files to their original names! (consult the journal system)
+  - Exception: the manuscript itself (e.g. `655-Manuscript (PDF)-712-1-6-20180308.pdf`) should remain unchanged
 
 ## Step 3
 Add the editorial supplementary files ([source](https://github.com/journalprivacyconfidentiality/jpc-style/releases/tag/v091jpc-editorial)) to the repository.
