@@ -70,6 +70,7 @@ For each Overleaf linked to a JPC article on Github,  invite lars.vilhuber@corne
 ### Comparison to submitted file
 - Check that all images and tables are formatted as in the submitted PDF
 - Check that all references resolve (no `(?)` in the generated PDF
+- Check the logs for errors
 - Flag any issues with a "Github issue" for the Github repo
 - If the generated PDF looks like the submitted PDF, 
   - make a sync from Overleaf to Github
@@ -90,6 +91,7 @@ For each Overleaf linked to a JPC article on Github,  invite lars.vilhuber@corne
 The DOI will be determined once the article is assigned to an issue by the Managing Editor. For now, this should simply be checked for clean compilation.
 
 Also:
+- check the log files
 - Check the URLs for validity
 - flag URLs that are not properly layoutted, and any other layout problems (fix, or make a Github issue)
 
