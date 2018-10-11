@@ -105,3 +105,6 @@ Once everything looks clean,
 ## Wrap-up
 - Check the article metadata for funding information, and cross-check with the manuscript (acknowledgements, title page, footnote) - fill in if necessary
 - Cross-check Keywords with any keywords given in the manuscript
+
+## Finish this step
+Go to [Copyediting and Production](Copyediting_and_production.md).
