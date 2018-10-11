@@ -80,7 +80,7 @@ For each Overleaf linked to a JPC article on Github,  invite lars.vilhuber@corne
 
 ```
 \documentclass{jpcfinal} %%% last changed 2014-08-20
-
+\usepackage{lineno}
 % JPC Layouting Macros =========================================
 % THESE ARE ADDED BY THE EDITORIAL TEAM - NO NEED TO SET HERE
 \newcommand{\doisuffix}{v0.i0.999}
@@ -89,6 +89,11 @@ For each Overleaf linked to a JPC article on Github,  invite lars.vilhuber@corne
 %%% last changed 2018-06-29 =====================================
 ```
 The DOI will be determined once the article is assigned to an issue by the Managing Editor. For now, this should simply be checked for clean compilation.
+
+In the Overleaf interface, after the lines `\begin{document}`,add
+```
+\linenumbers
+```
 
 Also:
 - check the log files
