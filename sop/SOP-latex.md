@@ -73,7 +73,7 @@ For each Overleaf linked to a JPC article on Github,  invite lars.vilhuber@corne
 - Flag any issues with a "Github issue" for the Github repo
 - If the generated PDF looks like the submitted PDF, 
   - make a sync from Overleaf to Github
-  - create a tag on Github 
+  - create a pre-release on Github (Release tab), with tag name "manuscript", title of the repository, and note "This should match the user's manuscript"
 ### Final layouting
  In the Overleaf interface, Change the top of the AUTHOR's primary file by ensuring it contains the following lines (note the comments):
 
@@ -99,3 +99,6 @@ Once everything looks clean,
 - Upload the PDF to Github 
 - create a **release** on Github, calling it 'final'
 - upload the PDF as the final copyedited file back into OJS
+
+## Wrap-up
+- Check the article metadata for funding information, and cross-check with the manuscript (acknowledgements, title page, footnote) - fill in if necessary
