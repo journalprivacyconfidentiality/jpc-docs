@@ -99,7 +99,7 @@ Once everything looks clean,
 - make a sync from Overleaf to Github
 - download the PDF from Overleaf
 - Upload the PDF to Github 
-- create a **release** on Github, calling it 'final'
+- create a **release** on Github, calling it 'copyedited'
 - upload the PDF as the final copyedited file back into OJS
 
 ## Wrap-up
