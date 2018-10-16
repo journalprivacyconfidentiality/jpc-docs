@@ -70,6 +70,7 @@ For each Overleaf linked to a JPC article on Github,  invite lars.vilhuber@corne
 ### Comparison to submitted file
 - Check that all images and tables are formatted as in the submitted PDF
 - Check that all references resolve (no `(?)` in the generated PDF
+- Check that all clickable links lead to a valid web page that seems reasonable for the paper. 
 - Check the logs for errors
 - Flag any issues with a "Github issue" for the Github repo
 - If the generated PDF looks like the submitted PDF, 
