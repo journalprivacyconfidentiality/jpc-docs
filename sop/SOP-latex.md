@@ -37,7 +37,7 @@ Download the files from the Copyediting step in the journal system (exceptionall
   - Exception: the manuscript itself (e.g. `655-Manuscript (PDF)-712-1-6-20180308.pdf`) should remain unchanged
 
 ## Step 3
-Add the editorial supplementary files ([v091.3jpc-editorial](https://github.com/journalprivacyconfidentiality/jpc-style/releases/tag/v091.3jpc-editorial) or later) to the repository.
+Add the editorial supplementary files ([v091.4jpc-editorial](https://github.com/journalprivacyconfidentiality/jpc-style/releases/tag/v091.3jpc-editorial) or later **editorial** files) to the repository.
 
 - Caution: you need to retain the directory structure! 
 - Adding files can be done through drag-and-drop on Github.
