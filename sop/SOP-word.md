@@ -29,6 +29,8 @@ Adding files can be done through drag-and-drop on Github.
 
 Caution: you need to retain the directory structure! Do not drag-and-drop the ZIP file, only its contents.
 
+Remember to commit changes!
+
 ## Step 3
 Create a  linked Overleaf v2 document
 
