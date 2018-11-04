@@ -1,4 +1,4 @@
-# Section Policies
+# Journal Policies
 
 <div id="sectionPolicies">
 <h3>Section Policies</h3>
@@ -34,3 +34,7 @@ Occasionnally, we publish special issues, related to events or conferences.
 </tbody>
 </table>
 </div>
+
+### Open Access Policy
+
+This journal provides immediate open access to its content on the principle that making research freely available to the public supports a greater global exchange of knowledge.
