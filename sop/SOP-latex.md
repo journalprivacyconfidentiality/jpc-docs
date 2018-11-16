@@ -27,7 +27,7 @@ Create a Git repository private repository in the JPC Github for the manuscript,
 
 - https://github.com/journalprivacyconfidentiality
 - name of repository: `jpc-manuscript-###` where ### is the manuscript number. 
--- the manuscript number will be in the URL and nowhere else - https://journalprivacyconfidentiality.org/index.php/jpc/workflow/index/666/3 would be 666, for instance. 
+- the manuscript number will be in the URL and nowhere else - https://journalprivacyconfidentiality.org/index.php/jpc/workflow/index/666/3 would be 666, for instance. 
 - Check the field "Initialize with a README"
 - go into settings, "Collaborators & Teams" and add the "Copyediting team" to the repository, and give it write permissions.
 
