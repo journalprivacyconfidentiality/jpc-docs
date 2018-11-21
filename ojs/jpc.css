@@ -1,3 +1,10 @@
+ul.show {
+  list-style-type: circle;
+}
+li.show {
+  display: list-item;
+}
+
 .navbar-brand {
 height: 80px;
 }
@@ -25,4 +32,11 @@ a:hover, a:focus {
 .orcid::after {
   content: "\a";
   white-space: pre;
+}
+
+.label::after {
+  content: "*";
+  font-weight: 700;
+  color: #d00a6c;
+  padding-left: 0.25em;
 }
