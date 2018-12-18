@@ -81,7 +81,7 @@ For each Overleaf linked to a JPC article on Github,  invite lars.vilhuber@corne
  In the Overleaf interface, Change the top of the AUTHOR's primary file by ensuring it contains the following lines (note the comments):
 
 ```
-\documentclass{jpcfinal} %%% last changed 2014-08-20
+\documentclass[final]{jpcfinal} %%% last changed 2014-08-20
 \usepackage{lineno}
 % JPC Layouting Macros =========================================
 % THESE ARE ADDED BY THE EDITORIAL TEAM - NO NEED TO SET HERE
