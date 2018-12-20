@@ -42,7 +42,7 @@ Create a  linked Overleaf v2 document
 In the Overleaf interface, change the top of the `template-word.tex` file by ensuring it contains the following lines (note the comments):
 
 ```
-\documentclass{jpcfinal} %%% last changed 2014-08-20
+\documentclass[final]{jpcfinal} %%% last changed 2014-08-20
 
 % JPC Layouting Macros =========================================
 % THESE ARE ADDED BY THE EDITORIAL TEAM - NO NEED TO SET HERE
@@ -85,6 +85,12 @@ Next, find the title and author information:
 \address{address 3}	%optional
 \urladdr{name3@url3\quad\rm{(optionally, a web-page can be specified)}}  %optional
 \thanks{thanks 3, optional.}	%optional
+```
+and adjust to match the Word document.
+
+Next, find the line beginning
+```
+\begin{abstract}
 ```
 and adjust to match the Word document.
 
