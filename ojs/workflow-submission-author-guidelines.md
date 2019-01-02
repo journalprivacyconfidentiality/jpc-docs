@@ -39,5 +39,5 @@
 - Authors are the initial owners of the copyrights to their works (an exception in the non-academic world to this might exist if the authors have, as a condition of employment, agreed to transfer copyright to their employer).
 - Each author materially contributed to the creation of the paper.
 - Submissions will be reviewed according to our [Reviewer Guidelines](/index.php/jpc/reviewer-guidelines).
-- Please provide the ORCID ID for each author in the submission metadata.
-- Please provide any funding IDs in the submission metadata, in addition to the acknowledgements in the paper. 
+- Please provide the **ORCID ID** for each author in the submission metadata.
+- Please provide any **funding IDs** in the submission metadata, in addition to the acknowledgements in the paper. 
