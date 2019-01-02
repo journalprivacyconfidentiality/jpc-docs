@@ -37,7 +37,6 @@
 - It is anticipated that many submitted articles will have appeared in proceedings of peer-reviewed conferences. A copy of the previously published peer-reviewed conference paper or its digital object identifier should be provided on submission. It is the author's responsibility in this case to verify that the submission to the Journal does not conflict with the terms of inclusion in the proceedings.
 - Submissions of manuscripts that have been placed in online preprint repositories like arxiv.org and SSRN are allowed provided that they meet the other conditions in these guidelines.
 - Authors are the initial owners of the copyrights to their works (an exception in the non-academic world to this might exist if the authors have, as a condition of employment, agreed to transfer copyright to their employer).
-- Each author materially contributed to the creation of the paper.
 - Submissions will be reviewed according to our [Reviewer Guidelines](/index.php/jpc/reviewer-guidelines).
 - Please provide the **ORCID ID** for each author in the submission metadata.
 - Please provide any **funding IDs** in the submission metadata, in addition to the acknowledgements in the paper. 
