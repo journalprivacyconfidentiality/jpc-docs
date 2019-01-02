@@ -2,7 +2,7 @@ ul.show {
   list-style-type: circle;
 }
 li.show {
-  display: list-item;
+  display: list-item !important;
 }
 
 .navbar-brand {
