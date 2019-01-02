@@ -40,3 +40,26 @@ a:hover, a:focus {
   color: #d00a6c;
   padding-left: 0.25em;
 }
+
+/* styling of the issue page */
+.breadcrumb > .active {
+    color: #642827;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.description {
+    font-size: medium;
+    color: #808080;
+}
+
+.current_issue_title {
+    color: #642827;
+    font-weight: bold;
+}
+
+/* Styling of the more element */
+a.btn.btn-primary.read-more {
+    background-image: linear-gradient(#808080, #808080);
+    border: 1px solid #808080;
+}
