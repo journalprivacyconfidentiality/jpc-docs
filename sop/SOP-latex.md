@@ -80,6 +80,8 @@ For each Overleaf linked to a JPC article on Github,  invite lars.vilhuber@corne
 ### Final layouting
  In the Overleaf interface, Change the top of the AUTHOR's primary file by ensuring it contains the following lines (note the comments):
 
+(the copyedited version should be draft (the default for jpcfinal.cls), the production version should be feasibly enabled, no further mods, by just setting [final].)
+
 ```
 \documentclass[final]{jpcfinal} %%% last changed 2014-08-20
 \usepackage{lineno}
