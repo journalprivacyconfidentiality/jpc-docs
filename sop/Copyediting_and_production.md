@@ -32,6 +32,8 @@ Special issues use boxed inserts. The main manuscript file tex must be modified 
 ```
 Check the layout, and move the location around as necessary. 
 
+- when moving from copy-editing to production, double-check that Abstract, Title, Keywords, Grant numbers are in sync between document and metadata.
+
 ## Creating the final galleys
 `Galley` is the term used for the PDF that will show up in the final, published form. It differs from the copy-edited form only in minor details:
 - ensure that `jpcfinal.cls` is being used
