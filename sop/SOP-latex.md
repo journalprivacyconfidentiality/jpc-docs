@@ -103,6 +103,13 @@ Also:
 - Check the URLs for validity
 - flag URLs that are not properly layoutted, and any other layout problems (fix, or make a Github issue)
 
+Please also verify that
+  - all authors have an affiliation
+  - the affiliation is consistent with the affiliation on the PDF
+  - all grant acknowledgements are entered into the metadata (not all funders are in CrossRef, but those that are, should be entered in the "Funding" field with grant numbers)
+  - do a cursory check if the authors are in ORCID, and enter the ORCID ID
+
+
 Once everything looks clean, 
 - make a sync from Overleaf to Github
 - download the PDF from Overleaf
