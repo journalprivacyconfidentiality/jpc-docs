@@ -12,7 +12,7 @@ https://github.com/journalprivacyconfidentiality/jpc-style/blob/7a97f43817b14df6
 
 % JPC Layouting Macros
 % THESE ARE ADDED BY THE EDITORIAL TEAM - NO NEED TO SET HERE
-%\newcommand{\doisuffix}{v0.i0.999}
+%\newcommand{\doisuffix}{999}
 % \jpcheading{vol}{issue}{year}{notused}{subm}{publ}{rev}{spec_iss}{title}
 %\jpcheading{0}{0}{2000}{}{Mar.~20, 2017}{Jun.~22, 2018}{}{Special issue}
 %%% last changed 2014-08-20
@@ -73,10 +73,26 @@ For each Overleaf linked to a JPC article on Github,  invite lars.vilhuber@corne
 - Check that all references resolve (no `(?)` in the generated PDF
 - Check that all clickable links lead to a valid web page that seems reasonable for the paper. 
 - Check the logs for errors
+- check for right-margin overflows (tricky!)
+- Check the URLs for validity
+- flag URLs that are not properly layoutted, and any other layout problems (fix, or make a Github issue)
+- Check the article metadata for funding information, and cross-check with the manuscript (acknowledgements, title page, footnote) - fill in if necessary
+- Cross-check Keywords with any keywords given in the manuscript
+
+Please also verify that
+  - all authors have an affiliation
+  - the affiliation is consistent with the affiliation on the PDF
+  - all grant acknowledgements are entered into the metadata (not all funders are in CrossRef, but those that are, should be entered in the "Funding" field with grant numbers)
+  - do a cursory check if the authors are in ORCID, and enter the ORCID ID
 - Flag any issues with a "Github issue" for the Github repo
-- If the generated PDF looks like the submitted PDF, 
+- If the generated PDF does NOT look like the submitted PDF (significant page changes, etc.), the manuscript should be returned to the authors. However, check with the Managing Editor first.
+- If the generated PDF has issues/ corrections/ etc. that require feedback from the author
+  - after the lines `\begin{document}`,add `\linenumbers`
+  - contact the author, providing both the PDF with line numbers, and the option to edit on Overleaf
+- If the generated PDF looks like the submitted PDF (or as authorized by the author), 
   - make a sync from Overleaf to Github
   - create a pre-release on Github (Release tab), with tag name "manuscript", title of the repository, and note "This should match the user's manuscript"
+
 ### Final layouting
  In the Overleaf interface, Change the top of the AUTHOR's primary file by ensuring it contains the following lines (note the comments):
 
@@ -87,30 +103,16 @@ For each Overleaf linked to a JPC article on Github,  invite lars.vilhuber@corne
 \usepackage{lineno}
 % JPC Layouting Macros =========================================
 % THESE ARE ADDED BY THE EDITORIAL TEAM - NO NEED TO SET HERE
-\newcommand{\doisuffix}{v0.i0.999}
+\newcommand{\doisuffix}{999}
 % \jpcheading{vol}{issue}{year}{notused}{subm}{publ}{rev}{spec_iss}{title}
 \jpcheading{0}{0}{2000}{}{Mar.~20, 2017}{Jun.~22, 2018}{}{Special issue}
 %%% last changed 2018-06-29 =====================================
 ```
-The DOI will be determined once the article is assigned to an issue by the Managing Editor. For now, this should simply be checked for clean compilation.
+The DOI suffix is the manuscript number. The `{subm}` entry should be determined from the editorial history. `{publ}` (published) will be determined once the article is assigned to an issue by the Managing Editor. 
 
-In the Overleaf interface, after the lines `\begin{document}`,add
-```
-\linenumbers
-```
+The document should compile cleanly. 
 
-Also:
-- check for right-margin overflows (tricky!)
-- check the log files
-- Check the URLs for validity
-- flag URLs that are not properly layoutted, and any other layout problems (fix, or make a Github issue)
-
-Please also verify that
-  - all authors have an affiliation
-  - the affiliation is consistent with the affiliation on the PDF
-  - all grant acknowledgements are entered into the metadata (not all funders are in CrossRef, but those that are, should be entered in the "Funding" field with grant numbers)
-  - do a cursory check if the authors are in ORCID, and enter the ORCID ID
-
+## Wrap-up
 
 Once everything looks clean, 
 - make a sync from Overleaf to Github
@@ -119,9 +121,6 @@ Once everything looks clean,
 - create a **release** on Github, calling it 'copyedited'
 - upload the PDF as the final copyedited file back into OJS
 
-## Wrap-up
-- Check the article metadata for funding information, and cross-check with the manuscript (acknowledgements, title page, footnote) - fill in if necessary
-- Cross-check Keywords with any keywords given in the manuscript
 
 ## Finish this step
 Go to [Copyediting and Production](Copyediting_and_production.md).
