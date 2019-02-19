@@ -78,6 +78,7 @@ For each Overleaf linked to a JPC article on Github,  invite lars.vilhuber@corne
 - flag URLs that are not properly layoutted, and any other layout problems (fix, or make a Github issue)
 - Check the article metadata for funding information, and cross-check with the manuscript (acknowledgements, title page, footnote) - fill in if necessary
 - Cross-check Keywords with any keywords given in the manuscript
+- Check that the line `\title[]{This is a title}` does not have an empty `[]` - it should either have a short title (`\title[Shorter]{This is a title}`) or should be removed (`\title{This is a title}`)
 
 Please also verify that
   - all authors have an affiliation
