@@ -30,6 +30,7 @@ Create a Git repository private repository in the JPC Github for the manuscript,
 - the manuscript number will be in the URL and nowhere else - https://journalprivacyconfidentiality.org/index.php/jpc/workflow/index/666/3 would be 666, for instance. 
 - Check the field "Initialize with a README"
 - go into settings, "Collaborators & Teams" and add the "Copyediting team" to the repository, and give it write permissions.
+- if the author has not uploaded a zip file: request it; when it is received, upload to OJS as well as to GitHub as below.
 
 ## Step 2
 Download the files from the Copyediting step in the journal system (exceptionally, this might be the Review stage).
