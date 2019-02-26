@@ -31,10 +31,11 @@ Create a Git repository private repository in the JPC Github for the manuscript,
 - Check the field "Initialize with a README"
 - go into settings, "Collaborators & Teams" and add the "Copyediting team" to the repository, and give it write permissions.
 - if the author has not uploaded a zip file: request it; when it is received, upload to OJS as well as to GitHub as below.
+- Create an issue in the Git repo "Copyedit manuscript" (which should always be issue 1), and reference it in all commits (from command line, from Overleaf etc, by using `Re #1` in the message)
 
 ## Step 2
 Download the files from the Copyediting step in the journal system (exceptionally, this might be the Review stage).
-- Add ALL FILES to the repository (drag and drop)
+- Add ALL FILES to the repository (drag and drop) - remember to use the `re #1 ` in the commit message!
 - rename the files to their original names! (consult the journal system)
   - Exception: the manuscript itself (e.g. `655-Manuscript (PDF)-712-1-6-20180308.pdf`) should remain unchanged
 
