@@ -37,10 +37,10 @@ Check the layout, and move the location around as necessary.
 ## Creating the final galleys
 `Galley` is the term used for the PDF that will show up in the final, published form. It differs from the copy-edited form only in minor details:
 - ensure that `jpcfinal.cls` is being used
-- add the DOI suffix - it is simply `jpc.` followed by the manuscript number, e.g. `jpc.999`. So the top of the LaTeX should now read
+- make sure the DOI suffix ( `jpc.`) is followed by the manuscript number, e.g. `jpc.999` in the pdf document. The top of the LaTeX should read (jpc suffix is added automatically)
 ```
 % THESE ARE ADDED BY THE EDITORIAL TEAM - NO NEED TO SET HERE
-\newcommand{\doisuffix}{jpc.661}
+\newcommand{\doisuffix}{661}
 % \jpcheading{vol}{issue}{year}{notused}{subm}{publ}{rev}{spec_iss}{title}
 \jpcheading{8}{1}{2018}{}{Mar.~20, 2017}{Nov, 2018}{}{Special Halloween Issue}
 ```
