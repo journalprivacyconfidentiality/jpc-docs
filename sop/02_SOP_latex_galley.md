@@ -8,6 +8,11 @@ with reference to line numbers, or we can share the Overleaf document with you.
 ```
 - Don't forget to attach the manuscript
 
+## When all changes approved by author
+- close all copyediting "issues" in Github 
+- add an entry to the "Copyediting discussions" that has a clear subject line (e.g. "Copyediting completed"), between the copy-editor and the editor/ managing editor. Specifically mention all closed Github issues.
+- all Github/Overleaf files MUST be in sync
+
 ## Special instructions for Special Issues
 Special issues use boxed inserts. The main manuscript file tex must be modified (this does NOT work when inserting Word-derived PDFs!). There is a special `jpcboxed.tex` in the editorial files for this purpose.
 
