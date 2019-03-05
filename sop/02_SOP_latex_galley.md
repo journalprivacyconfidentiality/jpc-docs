@@ -40,6 +40,7 @@ Check the layout, and move the location around as necessary.
 - when moving from copy-editing to production, double-check that Abstract, Title, Keywords, Grant numbers are in sync between document and metadata.
 
 ## Creating the final galleys
+- do this only once Lars has moved the submission to production in OJS. 
 `Galley` is the term used for the PDF that will show up in the final, published form. It differs from the copy-edited form only in minor details:
 - ensure that `jpcfinal.cls` is being used
 - make sure the DOI suffix ( `jpc.`) is followed by the manuscript number, e.g. `jpc.999` in the pdf document. The top of the LaTeX should read (jpc suffix is added automatically)
@@ -51,5 +52,5 @@ Check the layout, and move the location around as necessary.
 ```
 - compile the PDF in Overleaf
 - commit to Github
-- Download the manuscript (which should be called `jpc-manuscript-NNN.pdf`) from Overleaf, and upload it as galley in the JPC manuscript system.
+- Download the manuscript (which should be called `jpc-manuscript-NNN.pdf`) from Overleaf, and upload it **as galley** in the JPC manuscript system.
 - Notify the Managing Editor
