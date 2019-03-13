@@ -122,8 +122,7 @@ Once everything looks clean,
 - download the PDF from Overleaf
 - Upload the PDF to Github with a commit or upload message that says, for example, "This is the copy-edited file uploaded to OJS on March 5, 2019".
 - create a **release** on Github, calling it 'copyedited'
-- upload the PDF as the final copyedited file back into OJS
-Note: anytime you upload/update the document on OJS, create a related release on Github.
+- upload the PDF as the final copyedited file back into OJS. Note: anytime you upload/update the document on OJS, create a related release on Github.
 
 
 ## Finish this step
