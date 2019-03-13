@@ -126,4 +126,4 @@ Once everything looks clean,
 
 
 ## Finish this step
-Go to [02 SOP Latex Galley](02_SOP_latex_galley.md.md).
+Go to [02 SOP Latex Galley](02_SOP_latex_galley.md).
