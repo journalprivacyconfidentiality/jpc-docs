@@ -12,6 +12,7 @@ with reference to line numbers, or we can share the Overleaf document with you.
 - close all copyediting "issues" in Github 
 - add an entry to the "Copyediting discussions" that has a clear subject line (e.g. "Copyediting completed"), between the copy-editor and the editor/ managing editor. Specifically mention all closed Github issues.
 - all Github/Overleaf files MUST be in sync
+- if the author made substantial changes after you sent the copyedited version for approval, contact the managing editor
 
 ## Special instructions for Special Issues
 Special issues use boxed inserts. The main manuscript file tex must be modified (this does NOT work when inserting Word-derived PDFs!). There is a special `jpcboxed.tex` in the editorial files for this purpose.
@@ -52,5 +53,5 @@ Check the layout, and move the location around as necessary.
 ```
 - compile the PDF in Overleaf
 - commit to Github
-- Download the manuscript (which should be called `jpc-manuscript-NNN.pdf`) from Overleaf, and upload it **as galley** in the JPC manuscript system.
+- Download the manuscript (which should be called `jpc-manuscript-NNN.pdf`) from Overleaf, and upload it **as galley** in the JPC manuscript system. Label the document `PDF`.
 - Notify the Managing Editor
