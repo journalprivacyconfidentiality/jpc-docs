@@ -10,7 +10,7 @@ with reference to line numbers, or we can share the Overleaf document with you.
 
 ## When all changes approved by author
 - close all copyediting "issues" in Github 
-- add an entry to the "Copyediting discussions" that has a clear subject line (e.g. "Copyediting completed"), between the copy-editor and the editor/ managing editor. Specifically mention all closed Github issues.
+- In "Copyediting discussions", reply to the copyediting request of the editor to mention that the copyediting is finished. Specifically mention all closed Github issues.
 - all Github/Overleaf files MUST be in sync
 - if the author made substantial changes after you sent the copyedited version for approval, contact the managing editor
 
