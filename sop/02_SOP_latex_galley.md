@@ -1,5 +1,5 @@
 ## Upload to copyediting
-- upload the copyedited file from the previous step to JPC website
+- upload the copyedited file from the previous step to JPC website under the "Copyedited" section at the bottom. 
 - Contact author through the JPC system ("add discussion") and attach the copyedited file (with linenumbers) for review:
 ```
 we've done the final version of the manuscript. There were some minor edits. 
