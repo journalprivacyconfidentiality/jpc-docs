@@ -2,7 +2,7 @@
 
 ## LaTeX submissions
 
-[SOP-latex](SOP-latex.md)
+- [01_SOP_latex_copyediting](01_SOP_latex_copyediting.md)
 
 ## Word submissions
 
