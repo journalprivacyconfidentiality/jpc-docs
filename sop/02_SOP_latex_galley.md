@@ -53,5 +53,5 @@ Check the layout, and move the location around as necessary.
 ```
 - compile the PDF in Overleaf
 - commit to Github
-- Download the manuscript (which should be called `jpc-manuscript-NNN.pdf`) from Overleaf, and upload it **as galley** in the JPC manuscript system. Label the document `PDF`. Remember to create a corresponding release in Github, labeled final version.
+- Download the manuscript (which should be called `jpc-manuscript-NNN.pdf`) from Overleaf, and upload it **as galley** in the JPC manuscript system. Label the document `PDF` (PDF must be exactly in capital letters). Remember to create a corresponding release in Github, labeled final version.
 - Notify the Managing Editor
