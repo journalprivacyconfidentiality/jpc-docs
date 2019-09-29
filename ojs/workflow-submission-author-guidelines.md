@@ -1,3 +1,7 @@
+### Fees
+
+The Journal **does not charge fees** or charges for manuscript processing and/or publishing materials. We rely on authors complying strictly with the guidelines below to facilitate copy-editing and ensuring high-quality publications.
+
 ### Files
 - In addition to the manuscript (in PDF format), authors should also submit as soon as possible, but no later than when submitting any revisions, a complete LaTeX archive (see below for styling), as a ZIP file.
 - Alternatively, authors can **share a Git repository or an Overleaf document** with the Managing Editor, and make a note of the URL in the "Comments to the Editor".
@@ -24,7 +28,7 @@
 - Citations can be formatted as you like, provided 
   - the formatting is consistent
   - each citation begins with the last name of the first author
-  - where available, DOI and/or URL are listed
+  - where available, the entry in the references should list DOI and/or URL
 - Please consider splitting papers into two distinct parts: a *main manuscript* and *supplementary material*.
   - The main manuscript should be as succinct and readable as possible.
   - The supplementary material can be any length (and in some cases may be unnecessary). The supplementary material may contain additional figures and tables, details about data, mathematical derivations, further explanations, or additional simulations or other supporting studies.  The supplementary material should be formatted using the same stylesheet, and uploaded separately.
