@@ -4,7 +4,7 @@ The Journal adheres to the Committee on Publication Ethics (COPE) [Principles of
 
 ## Peer review process
 
-All submissions are peer-reviewed; editorials and sundry materials are the exceptions, and are clearly marked. We rely on the volunteer effort by our peers for input. Every editor will seek at least two timely opinions for submissions. Peer review is single-blind: The authors' names are not blinded, the reviewers' names are kept confidential. The reviewer guidelines are [posted on our website](https://journalprivacyconfidentiality.org/index.php/jpc/reviewer-guidelines). While we strive for quick turnaround, we do not control the time reviewers take to complete their tasks. The current turnaround goals are listed as part of the [reviewer guidelines](https://journalprivacyconfidentiality.org/index.php/jpc/reviewer-guidelines).
+All submissions are peer-reviewed; editorials and sundry materials are the exceptions, and are clearly marked. We rely on the volunteer effort by our peers for input. Every editor will seek at least two timely expert opinions for submissions. Peer review is single-blind: The authors' names are not blinded, the reviewers' names are kept confidential. The reviewer guidelines are [posted on our website](https://journalprivacyconfidentiality.org/index.php/jpc/reviewer-guidelines). While we strive for quick turnaround, we do not control the time reviewers take to complete their tasks. The current turnaround goals are listed as part of the [reviewer guidelines](https://journalprivacyconfidentiality.org/index.php/jpc/reviewer-guidelines).
 
 ## Ownership, management, and governance
 
