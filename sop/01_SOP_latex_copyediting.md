@@ -53,7 +53,7 @@ From the ZIP file, unzip and move only the following:
 ## Step 4
 Create a  linked Overleaf v2 document
 
-- https://v2.overleaf.com/project
+- https://www.overleaf.com/project
 - New Project -> Import from GitHub
 - You should see the linked JPC Github repositories. Pick the one you created in Step 1.
 - Share it with the Managing Editor ( lars.vilhuber@cornell.edu )
@@ -84,11 +84,13 @@ where `(URL)` is the complete URL of the linked Overleaf document.
   - Check the URLs for validity - Check that all clickable links lead to a valid web page that seems reasonable for the paper. 
   - flag URLs that are not properly layoutted, and any other layout problems (fix, or make a Github issue)
 3) Metadata
-  - Check the article metadata for funding information, and cross-check with the manuscript (acknowledgements, title page, footnote) - fill in if necessary. All grant acknowledgements should be entered into the metadata (not all funders are in CrossRef, but those that are, should be entered in the "Funding" field with grant numbers)
-  - Cross-check Keywords with any keywords given in the manuscript
-  - all authors have an affiliation
-  - Check that the affiliation is consistent with the affiliation on the PDF
-  - do a cursory check if the authors are in ORCID, and enter the ORCID ID
+  - Check the article metadata for **funding** information, and cross-check with the manuscript (acknowledgements, title page, footnote) - fill in if necessary. All grant acknowledgements should be entered into the metadata (not all funders are in CrossRef, but those that are, should be entered in the "Funding" field with grant numbers)
+  - Cross-check **Keywords** with any keywords given in the manuscript
+  - all authors have an **affiliation**, at least one author should have an email address
+    - Check that the affiliation is consistent with the affiliation on the PDF
+  - do a cursory check if the authors are in **ORCID**, and enter the ORCID ID
+  - Ensure that the **abstract** in the metadata is the same as in the article. If different, use the one from the article.
+
 ### Resolving issues
 - Flag any issues with a "Github issue" for the Github repo
 - If the generated PDF does NOT look like the submitted PDF (significant page changes, etc.), the manuscript should be returned to the authors. However, check with the Managing Editor first.
