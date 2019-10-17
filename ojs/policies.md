@@ -6,6 +6,18 @@ The Journal adheres to the Committee on Publication Ethics (COPE) [Principles of
 
 All submissions are peer-reviewed; editorials and sundry materials are the exceptions, and are clearly marked. We rely on the volunteer effort by our peers for input. Every editor will seek at least two timely expert opinions for submissions. Peer review is single-blind: The authors' names are not blinded, the reviewers' names are kept confidential. The reviewer guidelines are [posted on our website](https://journalprivacyconfidentiality.org/index.php/jpc/reviewer-guidelines). While we strive for quick turnaround, we do not control the time reviewers take to complete their tasks. The current turnaround goals are listed as part of the [reviewer guidelines](https://journalprivacyconfidentiality.org/index.php/jpc/reviewer-guidelines).
 
+### Section policies
+
+#### Editorial
+
+| Section | Open Submissions | Indexed | Peer Reviewed | Explanation|
+|-----|:-----:|:-----:|:----:|:----|
+| Articles | ![Checked](https://www.journalprivacyconfidentiality.org/lib/pkp/templates/images/icons/checked.gif)   | ![Checked](https://www.journalprivacyconfidentiality.org/lib/pkp/templates/images/icons/checked.gif) 	 | ![Checked](https://www.journalprivacyconfidentiality.org/lib/pkp/templates/images/icons/checked.gif)	   |
+| Editorial | ![Unchecked](https://www.journalprivacyconfidentiality.org/lib/pkp/templates/images/icons/unchecked.gif)   | ![Checked](https://www.journalprivacyconfidentiality.org/lib/pkp/templates/images/icons/checked.gif) 	 | ![Unchecked](https://www.journalprivacyconfidentiality.org/lib/pkp/templates/images/icons/unchecked.gif)	   | 
+| Conference issues | ![Unchecked](https://www.journalprivacyconfidentiality.org/lib/pkp/templates/images/icons/unchecked.gif)   | ![Checked](https://www.journalprivacyconfidentiality.org/lib/pkp/templates/images/icons/checked.gif) 	 | ![Checked](https://www.journalprivacyconfidentiality.org/lib/pkp/templates/images/icons/checked.gif)	   | Submission is restricted to attendees.
+| Sundry | ![Unchecked](https://www.journalprivacyconfidentiality.org/lib/pkp/templates/images/icons/unchecked.gif)   | ![Unchecked](https://www.journalprivacyconfidentiality.org/lib/pkp/templates/images/icons/unchecked.gif) 	 | ![Unchecked](https://www.journalprivacyconfidentiality.org/lib/pkp/templates/images/icons/unchecked.gif)	   |  Used for informational items |
+| Reminiscences | ![Unchecked](https://www.journalprivacyconfidentiality.org/lib/pkp/templates/images/icons/unchecked.gif)   | ![Checked](https://www.journalprivacyconfidentiality.org/lib/pkp/templates/images/icons/checked.gif) 	 | ![Unchecked](https://www.journalprivacyconfidentiality.org/lib/pkp/templates/images/icons/unchecked.gif)	   |  Special article used in reminiscences and commemorative issues (see [Vol 8 No 1](https://doi.org/10.29012/jpc.v8i1)) |
+
 ## Ownership, management, and governance
 
 The Journal is managed jointly by the [Editorial Team](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam), comprised of the Editor-in-Chief, the Managing Editor, and the other Editors. The Journal is fully independent, and is not owned by any university or publishing house. The Editorial Team has full control over the appointment of future editors, and the selection of referees. The Journal's contact information is available [on our website](https://journalprivacyconfidentiality.org/index.php/jpc/about/contact). 
