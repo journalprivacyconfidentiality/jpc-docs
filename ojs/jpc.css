@@ -41,6 +41,10 @@ a:hover, a:focus {
   padding-left: 0.25em;
 }
 
+.pkp_page_gateway .label {
+  color:black;
+}
+
 /* styling of the issue page */
 .breadcrumb > .active {
     color: #642827;
