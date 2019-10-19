@@ -81,13 +81,3 @@ a.btn.btn-primary.read-more {
 .most_read_article_title {
   line-height: 1.2;
 }
-
-/* styling of the hacked download thing */
-.panel-body li {
-    list-style: none;
-}
-.panel-heading {
-  padding-top: 10px;
-  padding-left: 0;
-  padding-bottom: 0;
-}
