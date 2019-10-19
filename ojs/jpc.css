@@ -67,3 +67,27 @@ a.btn.btn-primary.read-more {
     background-image: linear-gradient(#808080, #808080);
     border: 1px solid #808080;
 }
+
+/* styling of the most read */
+.block_developed_by .title {
+  padding: 5px 5px;
+}
+.block_developed_by .most_read_article {
+  padding: 5px 5px;
+}
+.most_read_article_journal {
+  padding: 0px 0px;
+}
+.most_read_article_title {
+  line-height: 1.2;
+}
+
+/* styling of the hacked download thing */
+.panel-body li {
+    list-style: none;
+}
+.panel-heading {
+  padding-top: 10px;
+  padding-left: 0;
+  padding-bottom: 0;
+}
