@@ -25,9 +25,13 @@ https://github.com/journalprivacyconfidentiality/jpc-style/blob/7a97f43817b14df6
 ## Step 1
 Create a Git repository private repository in the JPC Github https://github.com/journalprivacyconfidentiality for the manuscript, and add ALL the author's files to it (regardless of revision date).
 
-- name of repository: `jpc-manuscript-###` where ### is the manuscript number. 
-  - the manuscript number will be in the URL and nowhere else - e.g. `https://journalprivacyconfidentiality.org/index.php/jpc/workflow/index/666/3` would be 666, for instance. 
-- Check the field "Initialize with a README"
+- [Click here to create the repository](https://github.com/organizations/journalprivacyconfidentiality/repositories/new)
+  - Use the `jpc-style` template
+  - name of repository: `jpc-manuscript-###` where ### is the manuscript number. 
+    - the manuscript number will be in the URL and nowhere else - e.g. `https://journalprivacyconfidentiality.org/index.php/jpc/workflow/index/666/3` would be 666, for instance. 
+  - Check the "Private" option
+  - <strike>Check the field "Initialize with a README"</strike>
+  - Click "Create Repository"
 - go into settings, "Collaborators & Teams" and add the "Copyediting team" to the repository, and give it write permissions.
 - Create an issue in the Git repo "Copyedit manuscript" (which should always be issue 1), and reference it in all commits (from command line, from Overleaf etc, by using `Re #1` in the message)
 
