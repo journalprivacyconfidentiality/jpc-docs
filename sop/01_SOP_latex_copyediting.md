@@ -85,6 +85,9 @@ where `(URL)` is the complete URL of the linked Overleaf document.
   - check for right-margin overflows (tricky!)
   - Check that the line `\title[]{This is a title}` does not have an empty `[]` - it should either have a short title (`\title[Shorter]{This is a title}`) or should be removed (`\title{This is a title}`)
   - Check the logs for errors
+  - All references should have URLs and/or DOIs, regardless of style. If there are not URL or DOI, check the bib file, some styles don't show a URL. 
+    - If unclear, make a ticket and assign to Lars. 
+    - If absent, request that the author provide an updatd bib file with DOI (preferred) or URL.
 2) Check Functionality
   - Check the URLs for validity - Check that all clickable links lead to a valid web page that seems reasonable for the paper. 
   - flag URLs that are not properly layoutted, and any other layout problems (fix, or make a Github issue)
