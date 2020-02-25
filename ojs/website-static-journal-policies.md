@@ -49,7 +49,7 @@ A [Managing Editor](https://journalprivacyconfidentiality.org/index.php/jpc/abou
 Editors solicit and encourage submissions to the Journal.
 Editors are jointly responsible for the content of the journal, unless 
 an issue specifically designates a subset of the Editorial Board.
-Co-chairs of the TPDP workshop are ex-officio members of the Editorial Board. The organizing co-chair of TPDP is the editor of the current year's TPDP special issue.
+Co-chairs of the Organizing and Program Committee of the TPDP workshop are ex-officio members of the Editorial Board. The main organizing co-chair of TPDP is the editor of the current year's TPDP special issue.
 The Editorial Board has control over the selection of referees. 
 
 ## Author fees
