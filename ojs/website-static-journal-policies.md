@@ -7,7 +7,7 @@ The Journal is Open Access. No fee is charged to view, download, or print articl
 
 ## Publishing schedule
 
-The Journal strives for two publications per year, dependent on submissions of sufficient quality. In addition, the Journal publishes special issues on certain topics, such as the [Theory and Practice of Differential Privacy (TPDP) workshops](https://journalprivacyconfidentiality.org/index.php/jpc/tpdp). 
+The Journal strives for two publications per year, dependent on submissions of sufficient quality. In addition, the Journal publishes special issues on certain topics, such as the [Theory and Practice of Differential Privacy (TPDP) workshops](https://tpdp.journalprivacyconfidentiality.org/). 
 
 ## Peer review process
 
@@ -33,9 +33,24 @@ Every editor will seek at least two timely expert opinions for submissions. Peer
 While we strive for quick turnaround, we do not control the time reviewers take to complete their tasks. The current turnaround goals are listed as part of the [reviewer guidelines](https://journalprivacyconfidentiality.org/index.php/jpc/reviewer-guidelines).
 
 
-## Ownership, management, and governance
+## Ownership
 
-The Journal is managed jointly by the [Editorial Team](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam), comprised of the Editor-in-Chief, the Managing Editor, and the other Editors. The Journal is fully independent, and is not owned by any university or publishing house. The Editorial Team has full control over the appointment of future editors, and the selection of referees. The Journal's contact information is available [on our website](https://journalprivacyconfidentiality.org/index.php/jpc/about/contact). 
+The Journal is fully independent, and is not owned by any university or publishing house. The Journal's contact information is available [on our website](https://journalprivacyconfidentiality.org/index.php/jpc/about/contact). 
+
+## Management and Governance
+The Journal is managed  by the [Governing Board](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#governing-board). The Governing Board defines the strategic direction of the Journal, and appoints members of the Editorial Board.
+The Governing Board retains the right to review decisions of the Editorial Board.
+The Editor-in-Chief is the chair of the Governing board. Voting is by ⅔ majority of membership.
+
+The [Editorial Board](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#Current-members-of-the-Editorial-Board) handles the regular business of the journal. Appointments are normally 3 years, renewable. Appointments are approved by the Governing Board. Membership should be limited to no more than 12 editors. Current membership [is available on our website](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#Current-members-of-the-Editorial-Board). Changes to the membership of the Editorial Board are published as part of the next  editorial in the Journal.
+
+A [Managing Editor](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#Current-members-of-the-Editorial-Board) handles the day-to-day operations of the journal. The Managing Editor is a member of the Editorial Board.
+
+Editors solicit and encourage submissions to the Journal.
+Editors are jointly responsible for the content of the journal, unless 
+an issue specifically designates a subset of the Editorial Board.
+Co-chairs of the TPDP workshop are ex-officio members of the Editorial Board. The organizing co-chair of TPDP is the editor of the current year's TPDP special issue.
+The Editorial Board has control over the selection of referees. 
 
 ## Author fees
 
