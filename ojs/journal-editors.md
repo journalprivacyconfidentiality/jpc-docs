@@ -19,10 +19,9 @@ an issue specifically designates a subset of the Editorial Board.
 - John M. Abowd, U.S. Census Bureau and Cornell University, USA (2009-)
 - Kobbi Nissim, Georgetown University, USA (2009-)
 - Alan F. Karr, AFK Analytics, LLC, USA (2009-)
-- Aleksandar Nikolov, University of Toronto (TPDP conference co-chair, 2017-2020)
-- Michael Hay, Colgate University (TPDP conference co-chair, 2018-2020)
-- Jon Ullman, Northeastern University  (TPDP workshop co-chair, 2019-2021)
-- Rachel Cummings, Georgia Tech (TPDP workshop co-chair, 2020-2022)
+- Aleksandar Nikolov, University of Toronto (TPDP conference co-chair, 2020)
+- Michael Hay, Colgate University (TPDP conference co-chair, 2020)
+- Rachel Cummings, Georgia Tech (TPDP workshop co-chair, 2020-2021)
 
 
 ## Governing Board
