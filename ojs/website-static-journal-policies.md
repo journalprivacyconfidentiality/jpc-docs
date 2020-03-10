@@ -1,5 +1,3 @@
-# Journal Policies
-
 ## Open Access Policy
 
 
@@ -38,11 +36,16 @@ While we strive for quick turnaround, we do not control the time reviewers take 
 The Journal is fully independent, and is not owned by any university or publishing house. The Journal's contact information is available [on our website](https://journalprivacyconfidentiality.org/index.php/jpc/about/contact). 
 
 ## Management and Governance
-The Journal is managed  by the [Governing Board](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#governing-board). The Governing Board defines the strategic direction of the Journal, and appoints members of the Editorial Board.
-The Governing Board retains the right to review decisions of the Editorial Board.
-The Editor-in-Chief is the chair of the Governing board. Voting is by ⅔ majority of membership.
+The Journal is managed  by the **Governing Board**. The **Editorial Board** handles the regular business of the journal.
 
-The [Editorial Board](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#Current-members-of-the-Editorial-Board) handles the regular business of the journal. Appointments are normally 3 years, renewable. Appointments are approved by the Governing Board. Membership should be limited to no more than 12 editors. Current membership [is available on our website](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#Current-members-of-the-Editorial-Board). Changes to the membership of the Editorial Board are published as part of the next  editorial in the Journal.
+### Governing Board
+
+The Governing Board defines the strategic direction of the Journal, and appoints members of the Editorial Board.
+The Governing Board retains the right to review decisions of the Editorial Board.
+The Editor-in-Chief is the chair of the Governing Board. Voting is by ⅔ majority of membership. Current membership is listed on the [Editorial Team page](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#governing-board). Changes to the Governing Board are announced in the Journal.
+
+### Editorial Board
+The Editorial Board handles the regular business of the journal. Appointments are normally 3 years, renewable. Appointments are approved by the Governing Board. Membership should be limited to no more than 12 editors. Current membership [is available on our website](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#current-members-of-the-editorial-board). Changes to the membership of the Editorial Board are published as part of the next  editorial in the Journal.
 
 A [Managing Editor](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#Current-members-of-the-Editorial-Board) handles the day-to-day operations of the journal. The Managing Editor is a member of the Editorial Board.
 
