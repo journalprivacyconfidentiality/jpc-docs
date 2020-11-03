@@ -38,7 +38,10 @@ The Journal **does not charge fees** or charges for manuscript processing and/or
 - Concluding summaries should be provided only in the context of giving additional perspective on the work.
 
 ### ADDITIONAL CONSIDERATIONS
-- It is anticipated that many submitted articles will have appeared in proceedings of peer-reviewed conferences. A copy of the previously published peer-reviewed conference paper or its digital object identifier should be provided on submission. It is the author's responsibility in this case to verify that the submission to the Journal does not conflict with the terms of inclusion in the proceedings.
+- We welcome submission of manuscripts from peer-reviewed conferences and which may have appeared in, as long as certain conditions are met:
+  - the submitted manuscript should be an extension of the conference proceedings version. A typical extended paper has between 25 and 40% additional content
+  - the conference publication's copyright agreement signed by the authors allows for submissions to a journal
+  - the author provides a detailed description how the manuscript meets the above conditions, in the "Comments to the Editor", together with a copy of the conference proceedings or its digital object identifier, and an affirmation that the submission to the Journal does not conflict with the terms of inclusion in the proceedings.
 - Submissions of manuscripts that have been placed in online preprint repositories like arxiv.org and SSRN are allowed provided that they meet the other conditions in these guidelines.
 - Authors are the initial owners of the copyrights to their works (an exception in the non-academic world to this might exist if the authors have, as a condition of employment, agreed to transfer copyright to their employer).
 - Submissions will be reviewed according to our [Reviewer Guidelines](/index.php/jpc/reviewer-guidelines).
