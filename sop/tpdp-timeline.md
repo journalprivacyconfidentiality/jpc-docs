@@ -4,10 +4,10 @@ The deadline for submitting your work is **March 15th <TPDPYEAR+1>**. Please sub
  
 The Journal uses a single round of reviews. We will try to speed up the review process by sending each paper to reviewers as soon as they are submitted, and otherwise adhere to the following timetable:
 
-March 15, <TPDPYEAR+1> Deadline for submission
-May 15, <TPDPYEAR+1> End first round of reviews
-July 1, <TPDPYEAR+1> Deadline final version
-September 15, <TPDPYEAR+1> Publication of the special issue
+- March 15, <TPDPYEAR+1> Deadline for submission
+- May 15, <TPDPYEAR+1> End first round of reviews
+- July 1, <TPDPYEAR+1> Deadline final version
+- September 15, <TPDPYEAR+1> Publication of the special issue
 
 If your paper is ready, there is no need to wait the March 15th deadline!
  
