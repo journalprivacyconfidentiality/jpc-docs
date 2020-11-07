@@ -38,10 +38,12 @@ The Journal **does not charge fees** or charges for manuscript processing and/or
 - Concluding summaries should be provided only in the context of giving additional perspective on the work.
 
 ### ADDITIONAL CONSIDERATIONS
-- We welcome submission of manuscripts from peer-reviewed conferences and which may have appeared in, as long as certain conditions are met:
-  - the submitted manuscript should be an extension of the conference proceedings version. A typical extended paper has between 25 and 40% additional content
+- We welcome submission of manuscripts from peer-reviewed conferences, which may have already appeared in proceedings, as long as the following conditions are met:
+
+  - the submitted manuscript should be an extension of the conference proceedings version; a typical extended paper has at least 25% new content
   - the conference publication's copyright agreement signed by the authors allows for submissions to a journal
-  - the author provides a detailed description how the manuscript meets the above conditions, in the "Comments to the Editor", together with a copy of the conference proceedings or its digital object identifier, and an affirmation that the submission to the Journal does not conflict with the terms of inclusion in the proceedings.
+  - the author provides a detailed description of how the submitted manuscript meets the above conditions in the "Comments to the Editor," a copy of the conference proceedings version or its digital object identifier (DOI), and an affirmation that the submission to the JPC does not conflict with the terms of inclusion in the conference proceedings.
+
 - Submissions of manuscripts that have been placed in online preprint repositories like arxiv.org and SSRN are allowed provided that they meet the other conditions in these guidelines.
 - Authors are the initial owners of the copyrights to their works (an exception in the non-academic world to this might exist if the authors have, as a condition of employment, agreed to transfer copyright to their employer).
 - Submissions will be reviewed according to our [Reviewer Guidelines](/index.php/jpc/reviewer-guidelines).
