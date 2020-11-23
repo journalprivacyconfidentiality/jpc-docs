@@ -81,3 +81,9 @@ a.btn.btn-primary.read-more {
 .most_read_article_title {
   line-height: 1.2;
 }
+
+/* Fixing the submission header */
+
+h2.block_make_submissions {
+  display: none;
+}
