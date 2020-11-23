@@ -84,6 +84,6 @@ a.btn.btn-primary.read-more {
 
 /* Fixing the submission header */
 
-h2.block_make_submissions {
+div .block_make_submission h2 {
   display: none;
 }
