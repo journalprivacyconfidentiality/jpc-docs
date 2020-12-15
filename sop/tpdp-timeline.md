@@ -1,6 +1,6 @@
-Thanks for contributing to TPDP 2018. We would like to invite you to submit a full version of your work "<TITLE>" for a special issue of the Journal of Privacy and Confidentiality for TPDP <TPDPYEAR>. All submitted papers will be reviewed accordingly to the standards of regular JPC submissions. 
+Thanks for contributing to TPDP <TPDPYEAR>. We would like to invite you to submit a full version of your work "<TITLE>" for a special issue of the Journal of Privacy and Confidentiality for TPDP <TPDPYEAR>. All submitted papers will be reviewed accordingly to the standards of regular JPC submissions. 
  
-The deadline for submitting your work is **March 15th <TPDPYEAR+1>**. Please submit to the Journal’s submission system at https://journalprivacyconfidentiality.org/index.php/jpc/about/submissions, choose "TPDP 2020" as "Section" so the Journal can route your submission accordingly.
+The deadline for submitting your work is **March 15th <TPDPYEAR+1>**. Please submit to the Journal’s submission system at https://journalprivacyconfidentiality.org/index.php/jpc/about/submissions, choose "TPDP <TPDPYEAR>" as "Section" so the Journal can route your submission accordingly.
  
 The Journal uses a single round of reviews. We will try to speed up the review process by sending each paper to reviewers as soon as they are submitted, and otherwise adhere to the following timetable:
 
