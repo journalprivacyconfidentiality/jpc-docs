@@ -32,7 +32,7 @@ Create a Git repository private repository in the JPC Github https://github.com/
   - Check the "Private" option
   - <strike>Check the field "Initialize with a README"</strike>
   - Click "Create Repository"
-- go into settings, "Collaborators & Teams" and add the "Copyediting team" to the repository, and give it write permissions.
+- go into settings, "Manage access" and add the "Copyediting team" to the repository, and give it write permissions.
 - Create an issue in the Git repo "Copyedit manuscript" (which should always be issue 1), and reference it in all commits (from command line, from Overleaf etc, by using `Re #1` in the message)
 
 ## Step 2
