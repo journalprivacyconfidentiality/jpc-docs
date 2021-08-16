@@ -103,8 +103,13 @@ where `(URL)` is the complete URL of the linked Overleaf document.
 - Flag any issues with a "Github issue" for the Github repo
 - If the generated PDF does NOT look like the submitted PDF (significant page changes, etc.), the manuscript should be returned to the authors. However, check with the Managing Editor first.
 - If the generated PDF has issues/ corrections/ etc. that require feedback from the author
-  - contact the author (through OJS), providing both the PDF with line numbers, and the option to edit on Overleaf
-  - upload the PDF as part of the "Copyediting discussions"
+  - contact the author (through OJS - "add discussion"), providing the PDF with line numbers for review (and the option to edit on Overleaf if necessary): 
+```
+we've done the final version of the manuscript. There were some minor edits. 
+Could you check that it looks good to you? Should you need to make any changes, please let us know 
+with reference to line numbers, or we can share the Overleaf document with you.
+```
+  - if the author made substantial changes after you sent the copyedited version for approval, contact the managing editor.
 - If the generated PDF looks like the submitted PDF (or as authorized by the author), 
   - make a sync from Overleaf to Github
   - create a **pre-release** on Github (Release tab), with tag name "manuscript", title of the repository, and note "This should match the user's manuscript"
@@ -128,15 +133,42 @@ The DOI suffix is the manuscript number. The `{subm}` entry should be determined
 
 The document should compile cleanly. 
 
+### Special instructions for Special Issues
+Special issues use boxed inserts. The main manuscript file tex must be modified (this does NOT work when inserting Word-derived PDFs!). There is a special `jpcboxed.tex` in the editorial files for this purpose.
+
+#### Add the following line BEFORE the start of the document
+```
+\input{jpbboxed.tex}
+```
+
+#### Add the following line in an appropriate location of the text
+
+```
+%\begin{wrapfigure}{r}[0pt]{6in}
+\begin{figure}[H]
+\begin{cornerbox}[width=\linewidth]\small\fontfamily{qag}\selectfont
+
+\input{Fienberg.tex}
+
+\hfill \it Alan Karr
+\end{cornerbox}
+\end{figure}
+%\end{wrapfigure}
+```
+Check the layout, and move the location around as necessary. 
+
+- when moving from copy-editing to production, double-check that Abstract, Title, Keywords, Grant numbers are in sync between document and metadata.
+
 ## Wrap-up
 
-Once everything looks clean, 
+Once everything looks clean and the authors have approved any changes, 
 - make a sync from Overleaf to Github
+- close all copyediting "issues" in Github 
 - download the PDF from Overleaf
 - Upload the PDF to Github with a commit or upload message that says, for example, "This is the copy-edited file uploaded to OJS on March 5, 2019".
 - create a **release** on Github, calling it 'copyedited'
 - upload the PDF as the final copyedited file back into OJS (under "Copyedited"). Note: anytime you upload/update the document on OJS, create a related release on Github.
--  Notify the Editor that all files have been prepared, and that the Production process may begin, by responding to the original copy-editing request message in the Copyediting Discussion panel.
+-  Notify the Editor that all files have been prepared, and that the Production process may begin, by responding to the original copy-editing request message in the Copyediting Discussion panel. Specifically mention all closed Github issues.
 -  Once moved to production, assignee should post the message "All done." in the original copyediting request and mark the discussion as "Closed."
 
 
