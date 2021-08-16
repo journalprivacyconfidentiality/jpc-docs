@@ -137,6 +137,7 @@ Once everything looks clean,
 - create a **release** on Github, calling it 'copyedited'
 - upload the PDF as the final copyedited file back into OJS (under "Copyedited"). Note: anytime you upload/update the document on OJS, create a related release on Github.
 -  Notify the Editor that all files have been prepared, and that the Production process may begin, by responding to the original copy-editing request message in the Copyediting Discussion panel.
+-  Once moved to production, assignee should post the message "All done." in the original copyediting request and mark the discussion as "Closed."
 
 
 ## Finish this step
