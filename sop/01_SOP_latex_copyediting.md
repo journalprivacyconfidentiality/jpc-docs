@@ -109,7 +109,7 @@ we've done the final version of the manuscript. There were some minor edits.
 Could you check that it looks good to you? Should you need to make any changes, please let us know 
 with reference to line numbers, or we can share the Overleaf document with you.
 ```
-  - if the author made substantial changes after you sent the copyedited version for approval, contact the managing editor.
+    - if the author made substantial changes after you sent the copyedited version for approval, contact the managing editor.
 - If the generated PDF looks like the submitted PDF (or as authorized by the author), 
   - make a sync from Overleaf to Github
   - create a **pre-release** on Github (Release tab), with tag name "manuscript", title of the repository, and note "This should match the user's manuscript"
