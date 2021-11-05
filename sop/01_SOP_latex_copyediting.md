@@ -91,12 +91,9 @@ where `(URL)` is the complete URL of the linked Overleaf document.
 2) Check Functionality
   - Check the URLs for validity - Check that all clickable links lead to a valid web page that seems reasonable for the paper. 
   - flag URLs that are not properly layoutted, and any other layout problems (fix, or make a Github issue)
-3) Metadata
+3) Metadata (more is checked in the production stage)
   - Check the article metadata for **funding** information, and cross-check with the manuscript (acknowledgements, title page, footnote) - fill in if necessary. All grant acknowledgements should be entered into the metadata (not all funders are in CrossRef, but those that are, should be entered in the "Funding" field with grant numbers)
   - Cross-check **Keywords** with any keywords given in the manuscript
-  - all authors have an **affiliation**, at least one author should have an email address
-    - Check that the affiliation is consistent with the affiliation on the PDF
-  - do a cursory check if the authors are in **ORCID**, and enter the ORCID ID
   - Ensure that the **abstract** in the metadata is the same as in the article. If different, use the one from the article.
 
 ### Resolving issues
@@ -171,6 +168,14 @@ Once everything looks clean and the authors have approved any changes,
 -  Notify the Editor that all files have been prepared, and that the Production process may begin, by responding to the original copy-editing request message in the Copyediting Discussion panel. Specifically mention all closed Github issues.
 -  Once moved to production, assignee should post the message "All done." in the original copyediting request and mark the discussion as "Closed."
 
+## Production
+
+Once the manuscript has been moved to production, check the following metadata (this requires production editor permissions). 
+
+Move to the "Production" tab and find the list of contributors.
+- Do a cursory check if the authors are in **ORCID**, and enter the ORCID ID. If not present, check the box: “Send e-mail to request ORCID authorization from contributor”
+- All authors should have an **affiliation**, and at least one author should have an email address.
+  - Check that the affiliation is consistent with the affiliation on the PDF.
 
 ## Finish this step
 Go to [02 SOP Latex Galley](02_SOP_latex_galley.md).
