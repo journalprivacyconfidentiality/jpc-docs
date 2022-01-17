@@ -46,6 +46,7 @@ The Governing Board retains the right to review decisions of the Editorial Board
 The Editor-in-Chief is the chair of the Governing Board. Voting is by ⅔ majority of membership. Current membership is listed on the [Editorial Team page](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#governing-board). Changes to the Governing Board are announced in the Journal.
 
 ### Editorial Board
+
 The Editorial Board handles the regular business of the journal. Appointments are normally 3 years, renewable. Appointments are approved by the Governing Board. Membership should be limited to no more than 12 editors. Current membership [is available on our website](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#current-members-of-the-editorial-board). Changes to the membership of the Editorial Board are published as part of the next  editorial in the Journal.
 
 A [Managing Editor](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#Current-members-of-the-Editorial-Board) handles the day-to-day operations of the journal. The Managing Editor is a member of the Editorial Board.
