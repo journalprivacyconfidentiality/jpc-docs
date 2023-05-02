@@ -12,7 +12,7 @@ Please send these files to my attention at support@journalprivacyconfidentiality
 
 Thank you,
 
-Melissa Colbeth
+[Name]
 
 Copyeditor, Journal of Privacy and Confidentiality
 
