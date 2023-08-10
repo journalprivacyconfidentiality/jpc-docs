@@ -44,7 +44,7 @@ Download the files from the Copyediting step in the journal system (exceptionall
 - rename the files to their original names! (consult the journal system - should no longer be necessary if coming as ZIP files)
   - Exception: the manuscript itself (e.g. `655-Manuscript (PDF)-712-1-6-20180308.pdf`) should remain unchanged
 
-## Step 3
+## Step 3 - NO LONGER NECESSARY
 Add the editorial supplementary files ([v091.4jpc-editorial](https://github.com/journalprivacyconfidentiality/jpc-style/releases/tag/v091.4jpc-editorial) or later **editorial** files) to the repository.
 
 - Caution: you need to retain the directory structure! 
