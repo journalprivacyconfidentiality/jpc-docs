@@ -1,7 +1,26 @@
 # Word submissions
-Word submission should comply with the layout instructions at https://journalprivacyconfidentiality.org/index.php/jpc/about/submissions. For publishing at JPC, the Word document, properly formatted, will be printed to PDF, and then included in a LaTeX "wrapper".
 
-# Preparing the Word document
+Word submission should comply with the layout instructions at https://journalprivacyconfidentiality.org/index.php/jpc/about/submissions. For publishing at JPC, there are two possibilities:
+
+- the Word document is converted to LaTeX, and then processed as usual. This is preferred, but may not be feasible if the Word document has a lot of math.
+- the Word document, properly formatted, will be printed to PDF, and then included in a LaTeX "wrapper".
+
+# Converting to LaTeX
+
+- Requirements: `pandoc`
+
+```
+document=name_of_file.docx
+pandoc $document -o content.tex --extract-media=.
+```
+
+- Split the `content.tex` into `abstract.tex`, `references.tex`.
+- All references need to comply with our guidelines.
+- Process as usual using Overleaf etc.
+
+# Using LaTeX wrapper
+
+## Preparing the Word document
 
 The key elements that the Word document need to satisfy are
 - font type and size
@@ -10,9 +29,9 @@ The key elements that the Word document need to satisfy are
 
 Finally, remove any title page and abstract. The document should start with the first section. Save as "manuscript-###-copyedit.docx". Then print the document to a PDF, with the same name.
 
-# Preparing the final manuscript
+## Preparing the final manuscript
 
-## Step 1
+### Step 1
 Create a Git repository private repository in the JPC Github for the manuscript, and add to it the author's original Word document(s), the modified Word document, and the PDF created from the Word document.
 
 - https://github.com/journalprivacyconfidentiality
@@ -22,7 +41,7 @@ where ### is the manuscript number.
 
 Adding files can be done through drag-and-drop on Github.
 
-## Step 2
+### Step 2
 Add the editorial supplementary files ([source](https://github.com/journalprivacyconfidentiality/jpc-style/releases/tag/v091jpc-editorial)) to the repository.
 
 Adding files can be done through drag-and-drop on Github.
@@ -31,14 +50,14 @@ Caution: you need to retain the directory structure! Do not drag-and-drop the ZI
 
 Remember to commit changes!
 
-## Step 3
+### Step 3
 Create a  linked Overleaf v2 document
 
 - https://v2.overleaf.com/project
 - New Project -> Import from GitHub
 - You should see the linked JPC Github repositories. Pick the one you created in Step 1.
 
-## Step 4
+### Step 4
 In the Overleaf interface, change the top of the `template-word.tex` file by ensuring it contains the following lines (note the comments):
 
 ```
