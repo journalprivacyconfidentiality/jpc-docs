@@ -21,8 +21,15 @@ https://github.com/journalprivacyconfidentiality/jpc-style/blob/7a97f43817b14df6
 %% mandatory lists of keywords
 \keywords{MANDATORY list of keywords}
 ```
+## Step 0
+
+
+Files should be in OJS as a ZIP file. 
+
+- If the author has not uploaded a zip file yet: request it via the OJS communication; when it is received, upload to OJS
 
 ## Step 1
+
 Create a Git repository private repository in the JPC Github https://github.com/journalprivacyconfidentiality for the manuscript, and add ALL the author's files to it (regardless of revision date).
 
 - [Click here to create the repository](https://github.com/organizations/journalprivacyconfidentiality/repositories/new)
@@ -37,36 +44,25 @@ Create a Git repository private repository in the JPC Github https://github.com/
 - Remove instructions and samples files.
 
 ## Step 2
-Files should be in OJS as a ZIP file. 
-- If the author has not uploaded a zip file yet: request it via the OJS communication; when it is received, upload to OJS
-Download the files from the Copyediting step in the journal system (exceptionally, this might be the Review stage).
+
+Download the files from the Copyediting step in the journal system.
 - Add ALL FILES to the repository (drag and drop) - remember to use the `re #1 ` in the commit message!
-- rename the files to their original names! (consult the journal system - should no longer be necessary if coming as ZIP files)
-  - Exception: the manuscript itself (e.g. `655-Manuscript (PDF)-712-1-6-20180308.pdf`) should remain unchanged
-
-## Step 3 - NO LONGER NECESSARY
-Add the editorial supplementary files ([v091.4jpc-editorial](https://github.com/journalprivacyconfidentiality/jpc-style/releases/tag/v091.4jpc-editorial) or later **editorial** files) to the repository.
-
-- Caution: you need to retain the directory structure! 
-- Adding files can be done through drag-and-drop on Github.
-- Do not drag-and-drop the ZIP file, only its contents.
-
-From the ZIP file, unzip and move only the following: 
-- the `tmpl-images`  folder
-- `jpc.cls` (if not already present)
-- `jpsfinal.cls`
+- Unzip the ZIP file
+- Remove the redundant directory layer that is usually created by the unzipping (i.e., if the ZIP file "manuscript.zip" created the folder "manuscript/" with all files and directories in that folder, move all contents to the root folder, and delete the (now-empty) folder "manuscript/").
 
 ## Step 4
+
 Create a  linked Overleaf v2 document
 
 - https://www.overleaf.com/project
 - New Project -> Import from GitHub
 - You should see the linked JPC Github repositories. Pick the one you created in Step 1.
-- Share it with the Managing Editor ( lars.vilhuber@cornell.edu )
+- Share it with the Managing Editors ( lars.vilhuber@cornell.edu and racheladcummings@gmail.com )
 
 
 
 ## Step 6
+
 Add to the README not just the manuscript number, but once you've pulled it into Overleaf, add 
 ```
 (URL) On Overleaf
@@ -77,9 +73,11 @@ where `(URL)` is the complete URL of the linked Overleaf document.
 ## Step 7: Copy-editing
 
 ### Preparing
+
 - after the lines `\begin{document}`,add `\linenumbers`
   
 ### Comparison to submitted file
+
 1) Check Visuals
   - Check that all images and tables are formatted as in the submitted PDF
   - Check that all references resolve (no `(?)` in the generated PDF)
@@ -113,6 +111,7 @@ with reference to line numbers, or we can share the Overleaf document with you.
   - create a **pre-release** on Github (Release tab), with tag name "manuscript", title of the repository, and note "This should match the user's manuscript"
 
 ### Final layouting
+
  In the Overleaf interface, Change the top of the AUTHOR's primary file by ensuring it contains the following lines (note the comments):
 
 (the copyedited version should be draft (the default for jpcfinal.cls), the production version should be feasibly enabled, no further mods, by just setting [final].)
@@ -132,7 +131,8 @@ The DOI suffix is the manuscript number. The `{subm}` entry should be determined
 The document should compile cleanly. 
 
 ### Special instructions for Special Issues
-Special issues use boxed inserts. The main manuscript file tex must be modified (this does NOT work when inserting Word-derived PDFs!). There is a special `jpcboxed.tex` in the editorial files for this purpose.
+
+Special issues may use boxed inserts. The main manuscript file tex must be modified (this does NOT work when inserting Word-derived PDFs!). There is a special `jpcboxed.tex` in the editorial files for this purpose.
 
 #### Add the following line BEFORE the start of the document
 ```
@@ -160,11 +160,11 @@ Check the layout, and move the location around as necessary.
 ## Wrap-up
 
 Once everything looks clean and the authors have approved any changes, 
-- make a sync from Overleaf to Github
+- make a sync from Overleaf to Github!
 - close all copyediting "issues" in Github 
 - download the PDF from Overleaf
 - Upload the PDF to Github with a commit or upload message that says, for example, "This is the copy-edited file uploaded to OJS on March 5, 2019".
-- create a **release** on Github, calling it 'copyedited'
+- create a **release** or **tag** on Github, calling it 'copyedited'
 - upload the PDF as the final copyedited file back into OJS (under "Copyedited"). Note: anytime you upload/update the document on OJS, create a related release on Github.
 -  Notify the Editor that all files have been prepared, and that the Production process may begin, by responding to the original copy-editing request message in the Copyediting Discussion panel. Specifically mention all closed Github issues.
 -  Once moved to production, assignee should post the message "All done." in the original copyediting request and mark the discussion as "Closed."
