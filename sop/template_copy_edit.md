@@ -8,7 +8,7 @@ You can also share an Overleaf document instead.
 While preparing these files, please keep our formatting guidelines, 
 available here - https://journalprivacyconfidentiality.org/index.php/jpc/about/submissions - in mind.
 
-Please send these files to my attention at managing-editor@journalprivacyconfidentiality.org, referencing your submission number [number].
+Please send these files to my attention at support@journalprivacyconfidentiality.org, referencing your submission number [number].
 
 Thank you,
 
