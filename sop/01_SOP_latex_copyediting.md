@@ -41,7 +41,7 @@ Create a Git repository private repository in the JPC Github https://github.com/
   - Click "Create Repository"
 - go into settings, "Manage access" and add the "Copyediting team" to the repository, and give it write permissions.
 - Create an issue in the Git repo "Copyedit manuscript" (which should always be issue 1), and reference it in all commits (from command line, from Overleaf etc, by using `Re #1` in the message)
-- Remove instructions and samples files.
+- Delete instructions and samples files.
 
 ## Step 2
 
