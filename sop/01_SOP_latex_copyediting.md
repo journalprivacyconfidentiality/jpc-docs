@@ -90,7 +90,7 @@ where `(URL)` is the complete URL of the linked Overleaf document.
 2) Check Functionality
   - Check the URLs for validity - Check that all clickable links lead to a valid web page that seems reasonable for the paper. 
   - flag URLs that are not properly layoutted, and any other layout problems (fix, or make a Github issue)
-3) Metadata (more is checked in the production stage)
+3) Metadata (more is checked in the production stage) - JPC-platform and LaTeX file should match.
   - Check the article metadata for **funding** information, and cross-check with the manuscript (acknowledgements, title page, footnote) - fill in if necessary. All grant acknowledgements should be entered into the metadata (not all funders are in CrossRef, but those that are, should be entered in the "Funding" field with grant numbers)
   - Cross-check **Keywords** with any keywords given in the manuscript
   - Ensure that the **abstract** in the metadata is the same as in the article. If different, use the one from the article.
