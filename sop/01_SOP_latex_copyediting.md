@@ -75,7 +75,7 @@ where `(URL)` is the complete URL of the linked Overleaf document.
 ### Preparing
 
 - after the lines `\begin{document}`,add `\linenumbers`
--- Note: This generates an error in most files.
+-- Note: This generates an error in most files. Remove rather than acquiesce to error.
   
 ### Comparison to submitted file
 
