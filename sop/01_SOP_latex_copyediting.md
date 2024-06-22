@@ -178,6 +178,8 @@ Move to the "Production" tab and find the list of contributors.
 - Do a cursory check if the authors are in **ORCID**, and enter the ORCID ID. If not present, check the box: “Send e-mail to request ORCID authorization from contributor”
 - All authors should have an **affiliation**, and at least one author should have an email address.
   - Check that the affiliation is consistent with the affiliation on the PDF.
+  - Titles should be Title case (not all caps)
+  - Check all metadata fields for items not intended for public consumption.
 
 ## Finish this step
 Go to [02 SOP Latex Galley](02_SOP_latex_galley.md).
