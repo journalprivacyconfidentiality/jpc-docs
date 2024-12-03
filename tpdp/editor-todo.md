@@ -10,6 +10,8 @@
     - Type of article: Journal article
     - Identify items published in this section as "`TPDP YYYY`"
     - Select editors
+    - Save, and then move up under the other TPDP sections.
+    - Mark the previous year's TPDP section as "Inactive" (means no further submissions accepted)
   - edits the "ex-officio" [appointments](https://journalprivacyconfidentiality.org/index.php/jpc/management/settings/context) of previous TPDP organizers (remove  some, add new one to current)
   
 ## Around September - October
