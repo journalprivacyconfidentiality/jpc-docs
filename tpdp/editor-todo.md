@@ -4,8 +4,8 @@
 
 - JPC Exec Editor 
   - creates [section](https://journalprivacyconfidentiality.org/index.php/jpc/management/settings/context#sections) for **TPDP-{YYYY}** so folks can submit to it.
-  - edit the "ex-officio" [appointments](https://journalprivacyconfidentiality.org/index.php/jpc/management/settings/context#masthead) of previous TPDP organizers (remove  some, add new one to current)
-  - add new co-chair to the system as a section editor
+  - edit the "ex-officio" [appointments](https://journalprivacyconfidentiality.org/index.php/jpc/management/settings/context) of previous TPDP organizers (remove  some, add new one to current)
+  - add new co-chair to the system as a section editor (under [Users](https://journalprivacyconfidentiality.org/index.php/jpc/management/settings/access)).
 
 ## Around September - October
 
