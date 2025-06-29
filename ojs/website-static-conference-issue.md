@@ -21,9 +21,9 @@ Parties interested in publishing a conference issue with the Journal should cont
 ### Handling of submissions
 
 - The proposers of the special issue should designate two or more Guest Editors. 
-- The Journal will designate one or more members of the Editorial Board who will responsible for oversight of the process. When the special issue is associated with a conference or workshop, it is expected that these Guest Editors attend the conference or workshop.
+- The Journal will designate one or more members of the Editorial Board who will be responsible for oversight of the process. When the special issue is associated with a conference or workshop, it is expected that these Guest Editors attend the conference or workshop.
 - Guest Editors are also responsible for submissions to the special issue that do not stem from conference participants. Should the number of such submissions be large, Guest Editors or members of the Editorial Board may handle some of these.
-- GUest Editors handle the choice of reviewers, and recommend a decision for each submitted paper.
+- Guest Editors handle the choice of reviewers, and recommend a decision for each submitted paper.
   - [Reviewer guidelines](https://journalprivacyconfidentiality.org/index.php/jpc/reviewer-guidelines) are available on the JPC website.
 - Recommendations are reviewed and approved by the Editor in Chief of JPC.
   - [Reviewing policies](https://journalprivacyconfidentiality.org/index.php/jpc/policies#reviewing-process) and [Conflict of interest rules](https://journalprivacyconfidentiality.org/index.php/jpc/policies#journal-policies-on-conflicts-of-interest-competing-interests) apply.
@@ -35,4 +35,4 @@ Parties interested in publishing a conference issue with the Journal should cont
 - Should the number of accepted manuscripts not be sufficient for a full issue, they will be published as part of a designated section of the next regular issue. This may also happen when there is a sufficiently large number of manuscripts, but delays in the reviewing process are too long - the manuscripts from the special issue may then be split across designated sections of multiple regular issues. 
 - A special issue should have at least 6 manuscripts. There is no upper limit.
 - A special section of a regular issue can have any number of manuscripts.
-- The Guest Editors should write an editorial for the special issue, or the first issue containing a special section, summarizing the context and the published papers.
+- The Guest Editors should write an editorial for the special issue, or the first issue containing a special section, summarizing the context and the published papers. The editorial will be reviewed by the Editor in Chief, and will be published as part of the special issue, or in the first issue of multiple special sections.

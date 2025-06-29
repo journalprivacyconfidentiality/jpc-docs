@@ -1,7 +1,6 @@
-*Journal of Privacy and Confidentiality (JPC)\
-*Disclosure Policy  
+# Disclosure Policy  
 
-**Disclosure Principles**
+## Disclosure Principles
 
 Submissions to the *JPC* must conform to the following disclosure
 policies.
@@ -36,7 +35,7 @@ policies.
     the paper prior to its circulation, and if so, whether such review
     took place.
 
-**Instructions**
+## Instructions
 
 Each (co-)author must follow the instructions provided by the JPC
 regarding the format of the disclosure statement. The disclosure
@@ -56,12 +55,12 @@ Society for Privacy and Confidentiality Research, who will decide on the
 appropriate course of action in each case, which may include retracting
 the paper
 
-**Publication of Disclosure**
+## Publication of Disclosure
 
 For published articles, all disclosure statements are made available to
 the public.
 
-**Institutional Review Board (IRB) Approval**
+## Institutional Review Board (IRB) Approval
 
 For any paper involving the collection or secondary analysis of data on
 human subjects, the author(s) must disclose whether they have obtained
@@ -72,4 +71,4 @@ For example, if the authors have not obtained IRB approval because their
 institutions do not have IRBs, that fact should be stated in the
 Disclosure Statement and in the acknowledgments footnote.
 
-Adopted by the SPCR Board of Directors on April 21, 2025.
+*Adopted by the SPCR Board of Directors on April 21, 2025.*

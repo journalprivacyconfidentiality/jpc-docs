@@ -56,9 +56,9 @@ Effective with submissions from April 1, 2025, the JPC charges a publication fee
 
 ## Revenue sources
 
-SPCR assumed responsibility for publising JPC on July 1, 2024 as noted in the [editorial](https://doi.org/10.29012/jpc.939). Information about the Society's [finances](https://socprivconfresearch.org/#supporting).
+SPCR is the publisher of JPC since July 1, 2024 (see [editorial](https://doi.org/10.29012/jpc.939)). Information about the Society's finances can be found [on the SPCR's website](https://socprivconfresearch.org/#supporting). Revenue sources include membership fees, donations, and publication fees.
 
-Funding for academic year (AY) 2024 was provided by Cynthia Dwork's chair at Harvard University. Funding from AY 2017-2023 was provided by John M. Abowd's [Edmund Ezra Day Chair](https://blogs.cornell.edu/abowd/edmund-ezra-day/) and the [Labor Dynamics Institute](https://www.ilr.cornell.edu/LDI/) at Cornell University. Funding from 2009-2016 was provided by Stephen Fienberg's chair at [Carnegie Mellon University](http://www.stat.cmu.edu/), with support from [Research Showcase @ CMU](https://kilthub.cmu.edu/), Carnegie Mellon University’s institutional repository. The support in no way restricts or influences editorial decisions.
+
 
 ## Advertising
 
@@ -83,7 +83,7 @@ The Journal adheres to the Committee on Publication Ethics (COPE) [Principles of
 
 ### Journal policies on authorship and contributorship
 
-The Journal requires that each author be aware of the contents of the entire article and its submission status, and that each author materially contribute to the creation of the paper (see [Submission page](https://journalprivacyconfidentiality.org/index.php/jpc/about/submissions). The submitting author explicitly confirms this, on behalf of all authors, upon submission. 
+The Journal requires that each author be aware of the contents of the entire article and its submission status, and that each author materially contribute to the creation of the paper (see [Submission page](https://journalprivacyconfidentiality.org/index.php/jpc/about/submissions)). The submitting author explicitly confirms this, on behalf of all authors, upon submission. 
 
 ### Journal financial and conflict-of-interest policies
 
@@ -91,42 +91,43 @@ These policies apply to members of the Editorial Board and reviewers.
 
 The JPC depends strongly on the actual and perceived fairness of its review process. To that end, those involved in that process must declare potential conflicts of interest, and these must be adjudicated by either the Editor-in-Chief or the Board of Directors of the Society for Privacy and Confidentiality Research (SPCR). Furthermore, the SPCR is committed to the principle that there be no personal gain from Editorial Board service other than modest stipends to the Editor-in-Chief and Managing Editor.
 
-Conflicts of Interest
+*Conflicts of Interest*
 
 A conflict of interest (COI) is a set of conditions under which the primary interest of JPC in publishing high-quality, high-impact papers may be, or may be perceived to be, influenced by secondary professional or personal interests. 
 
 In general, COIs involving JPC editors and authors fall into the following classes:
 
-1.	Individual relationships 
-a.	Current or past (within five years) professional relationships, for example, as collaborators, co-authors, Ph.D. students, and Ph.D. or postdoc advisors.
-b.	Current or past (within five years) personal relationships, for example, as family members, or conflict/rivalry.
-2.	Institutional relationships, principally from having the same current or past (within five years) employer.
-3.	Financial relationships, for example, as business partners, or financial interests, the latter excluding vicarious ownership through pooled investment products.
+- 1.	Individual relationships 
+  - a.	Current or past (within five years) professional relationships, for example, as collaborators, co-authors, Ph.D. students, and Ph.D. or postdoc advisors.
+  - b.	Current or past (within five years) personal relationships, for example, as family members, or conflict/rivalry.
+- 2.	Institutional relationships, principally from having the same current or past (within five years) employer.
+- 3.	Financial relationships, for example, as business partners, or financial interests, the latter excluding vicarious ownership through pooled investment products.
 
-Disclosure of Conflicts of Interest
+*Disclosure of Conflicts of Interest*
 
 All conflicts involving Editorial Board members must be fully and promptly disclosed:
 
-•	In the case of Editorial Board members, to the Editor-in-Chief;
-•	In the case of the Editor-in-Chief, to the President of SPCR.
+- In the case of Editorial Board members, to the Editor-in-Chief;
+- In the case of the Editor-in-Chief, to the President of SPCR.
 
-Response to Disclosed Conflicts of Interest
+*Response to Disclosed Conflicts of Interest*
 
 If the COI is disclosed by an Editorial Board member, the Editor-in-Chief will determine the response, which in general will be either:
-•	That the COI is not substantive, in which case the review process may proceed; or
-•	That the COI is substantive, and the paper in question will be re-assigned to another member of the Editorial Board who has no COI. In this case, the conflicted Editorial Board member may make no attempt, formal or informal, to influence the review process.
+
+- That the COI is not substantive, in which case the review process may proceed; or
+- That the COI is substantive, and the paper in question will be re-assigned to another member of the Editorial Board who has no COI. In this case, the conflicted Editorial Board member may make no attempt, formal or informal, to influence the review process.
 
 If the COI is disclosed by the Editor-in-Chief, the President of the SPCR Board of Directors will instruct the Managing Editor to make all final decisions for the paper in question.
 
-Failure to Disclosure
+*Failure to Disclosure*
 
 An Editor-in-Chief or Editorial Board member who fails to disclose a substantive COI will be removed immediately. The SPCR Board of Directors will determine whether further action, such as retraction of the paper, is warranted.
 
-COIs Involving Referees
+*COIs Involving Referees*
 
-Requests to referees will include the following language: “if you feel there is any potential conflict of interest in your refereeing this paper because of your relationship with the author (s), whether professional, personal or financial, or for any other reason, please declare it. For additional guidance see [link to the JPC conflict of interest policy]. By accepting this invitation, you are asserting there is no potential conflict of interest.”
+Requests to referees will include the following language: "If you feel there is any potential conflict of interest in your refereeing this paper because of your relationship with the author (s), whether professional, personal or financial, or for any other reason, please declare it. For additional guidance see [link to the JPC conflict of interest policy]. By accepting this invitation, you are asserting there is no potential conflict of interest."
 
-For the policies that apply to the authors of submitted manuscripts see [JPC Disclosure Policy](https://{insert final location of this page}.
+For the policies that apply to the authors of submitted manuscripts see [JPC Disclosure Policy](https://journalprivacyconfidentiality.org/index.php/jpc/disclosure-policy).
 
 ### Complaints and appeals
 
