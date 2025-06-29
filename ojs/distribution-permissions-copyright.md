@@ -2,3 +2,4 @@ Copyright is retained by the authors. By submitting to this journal, the author(
 
 Furthermore, the authors of articles published by the journal grant the journal the right to store the articles in its databases for an unlimited period of time and to distribute and reproduce the articles electronically. 
 
+

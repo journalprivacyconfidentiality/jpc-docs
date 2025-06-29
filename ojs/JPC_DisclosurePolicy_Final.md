@@ -1,5 +1,5 @@
 *Journal of Privacy and Confidentiality (JPC)\
-*Disclosure Policy
+*Disclosure Policy  
 
 **Disclosure Principles**
 

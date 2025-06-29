@@ -1,11 +1,10 @@
 ## Open Access Policy
 
-
 The Journal is Open Access. No fee is charged to view, download, or print articles. There is no print edition. The online edition has **ISSN 2575-8527**, and is available at the website [https://journalprivacyconfidentiality.org/](https://journalprivacyconfidentiality.org/). Readers may [subscribe to the Journal via a notification system](https://journalprivacyconfidentiality.org/index.php/jpc/information/readers). 
 
 ## Publishing schedule
 
-The Journal strives for two publications per year, dependent on submissions of sufficient quality. In addition, the Journal publishes special issues on certain topics, such as the [Theory and Practice of Differential Privacy (TPDP) workshops](https://tpdp.journalprivacyconfidentiality.org/). 
+The Journal strives for three publications per year, dependent on submissions of sufficient quality. In addition, the Journal publishes special issues on certain topics, such as the [Theory and Practice of Differential Privacy (TPDP) workshops](https://tpdp.journalprivacyconfidentiality.org/). 
 
 ## Peer review process
 
@@ -34,36 +33,32 @@ While we strive for quick turnaround, we do not control the time reviewers take 
 
 ## Ownership
 
-The Journal is fully independent, and is not owned by any university or publishing house. The Journal's contact information is available [on our website](https://journalprivacyconfidentiality.org/index.php/jpc/about/contact). 
+The Journal is owned by the Society for Privacy and Confidentiality Research (SPCR), a 501(c)(3) organization incorporated in the state of Pennsylvania. Further information, including how to become a member of SPCR can be found on the [Society's website] (https://socprivconfresearch.org/). 
 
 ## Management and Governance
-The Journal is managed  by the **Governing Board**. The **Editorial Board** handles the regular business of the journal.
 
-### Governing Board
+SPCR appoints the JPC's Editor-in-Chief, Managing Editor, and Editorial Board. It recognizes JPC's editorial independence in selecting material to be reviewed and published in accordance with the policies outlined on this website, which the SPCR has approved.  
 
-The Governing Board defines the strategic direction of the Journal, and appoints members of the Editorial Board.
-The Governing Board retains the right to review decisions of the Editorial Board.
-The Editor-in-Chief is the chair of the Governing Board. Voting is by ⅔ majority of membership. Current membership is listed on the [Editorial Team page](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#governing-board). Changes to the Governing Board are announced in the Journal.
 
 ### Editorial Board
 
-The Editorial Board handles the regular business of the journal. Appointments are normally 3 years, renewable. Appointments are approved by the Governing Board. Membership should be limited to no more than 12 editors. Current membership [is available on our website](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#current-members-of-the-editorial-board). Changes to the membership of the Editorial Board are published as part of the next  editorial in the Journal.
+The [Editor-in-Chief](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#Current-members-of-the-Editorial-Board) chairs the Editorial Board, supervises the assignment of a member of the board to handle the review of a submission, ensures the compliance of all board members with the Journal's conflict of interest policies, and makes all final decisions regarding publication.
 
-A [Managing Editor](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#Current-members-of-the-Editorial-Board) handles the day-to-day operations of the journal. The Managing Editor is a member of the Editorial Board.
+The [Managing Editor](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#Current-members-of-the-Editorial-Board) handles the day-to-day operations of the Journal, including convening the Editorial Board and ensuring the timely progress of manuscripts through the review and publication process. The Managing Editor is a member of the Editorial Board.
 
-Editors solicit and encourage submissions to the Journal.
-Editors are jointly responsible for the content of the journal, unless 
-an issue specifically designates a subset of the Editorial Board.
-Co-chairs of the Organizing and Program Committee of the TPDP workshop are ex-officio members of the Editorial Board. The main organizing co-chair of TPDP is the editor of the current year's TPDP special issue.
-The Editorial Board has control over the selection of referees. 
+The Editorial Board handles the regular business of the Journal. Appointments are normally 3 years, renewable. The size of the Editorial Board is determined by SPCR. Current membership [is available on our website](https://journalprivacyconfidentiality.org/index.php/jpc/about/editorialTeam#current-members-of-the-editorial-board). 
+
+Members of the Editorial Board solicit and encourage submissions to the Journal. They are jointly responsible for the content of the Journal, unless an issue specifically designates a subset of the Editorial Board. Co-chairs of the Organizing and Program Committee of the TPDP workshop are ex-officio members of the Editorial Board. The main organizing co-chair of TPDP is the editor of the current year's TPDP special issue. The Editorial Board has control over the selection of referees for all manuscripts subject to the conflict of interest policies. 
 
 ## Author fees
 
-As of 2019, the Journal does not charge fees or charges for manuscript processing and/or publishing materials. This is clearly noted on the [Submission page](https://journalprivacyconfidentiality.org/index.php/jpc/about/submissions).
+Effective with submissions from April 1, 2025, the JPC charges a publication fee of $500 for accepted manuscripts. This is clearly noted on the [Submission page](https://journalprivacyconfidentiality.org/index.php/jpc/about/submissions). There are no fees for submission.
 
 ## Revenue sources
 
-The Journal has no income at this time. Funding since AY 2017 has been provided by the John M. Abowd's [Edmund Ezra Day Chair](https://blogs.cornell.edu/abowd/edmund-ezra-day/) and the [Labor Dynamics Institute](https://www.ilr.cornell.edu/LDI/) at Cornell University. Funding from 2009-2016 was provided by Stephen Fienberg's chair at [Carnegie Mellon University](http://www.stat.cmu.edu/), with support from [Research Showcase @ CMU](https://kilthub.cmu.edu/), Carnegie Mellon University’s institutional repository. The support in no way restricts or influences editorial decisions.
+SPCR assumed responsibility for publising JPC on July 1, 2024 as noted in the [editorial](https://doi.org/10.29012/jpc.939). Information about the Society's [finances](https://socprivconfresearch.org/#supporting).
+
+Funding for academic year (AY) 2024 was provided by Cynthia Dwork's chair at Harvard University. Funding from AY 2017-2023 was provided by John M. Abowd's [Edmund Ezra Day Chair](https://blogs.cornell.edu/abowd/edmund-ezra-day/) and the [Labor Dynamics Institute](https://www.ilr.cornell.edu/LDI/) at Cornell University. Funding from 2009-2016 was provided by Stephen Fienberg's chair at [Carnegie Mellon University](http://www.stat.cmu.edu/), with support from [Research Showcase @ CMU](https://kilthub.cmu.edu/), Carnegie Mellon University’s institutional repository. The support in no way restricts or influences editorial decisions.
 
 ## Advertising
 
@@ -75,35 +70,74 @@ The Journal does not engage in marketing activities.
 
 ## Copyright and Licensing
 
-The Journal's copyright policy is stated [on our Submission page](https://journalprivacyconfidentiality.org/index.php/jpc/about/submissions). Each article also identifies the specific license under which it was published. By submitting to this journal, the author(s) license the article under the ]Creative Commons License – Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) (CC BY-NC-ND 4.0), unless choosing a more lenient license (for instance, public domain).
+The Journal's copyright policy is stated [on our Submission page](https://journalprivacyconfidentiality.org/index.php/jpc/about/submissions). Each article also identifies the specific license under which it was published. By submitting to this Journal, the author(s) license the article under the ]Creative Commons License – Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) (CC BY-NC-ND 4.0), unless choosing a more lenient license (for instance, public domain).
 
 
 ## Process for identification of and dealing with allegations of research misconduct
 
-The Journal and its editors strongly discourage any attempt at plagiarism, citation manipulation, and data falsification/fabrication, among others. If we detect such behavior, or are made aware of any allegation of research misconduct relating to a published article in their journal, we shall follow [COPE’s guidelines](https://publicationethics.org/resources/guidelines) in dealing with allegations. 
+The Journal and its editors strongly discourage any attempt at plagiarism, citation manipulation, and data falsification/fabrication, among others. If we detect such behavior, or are made aware of any allegation of research misconduct relating to a published article in their Journal, we shall follow [COPE’s guidelines](https://publicationethics.org/resources/guidelines) in dealing with allegations. 
 
 ## Publication Ethics
+
 The Journal adheres to the Committee on Publication Ethics (COPE) [Principles of Transparency and Best Practice in Scholarly Publishing](https://publicationethics.org/resources/guidelines-new/principles-transparency-and-best-practice-scholarly-publishing). In particular:
 
 ### Journal policies on authorship and contributorship
 
-The Journal requires that each author is aware of the contents of the entire article and its submission status, and each author materially contributed to the creation of the paper (see [Submission page](https://journalprivacyconfidentiality.org/index.php/jpc/about/submissions). The submitting author explicitly confirms this, on behalf of all authors, upon submission. 
+The Journal requires that each author be aware of the contents of the entire article and its submission status, and that each author materially contribute to the creation of the paper (see [Submission page](https://journalprivacyconfidentiality.org/index.php/jpc/about/submissions). The submitting author explicitly confirms this, on behalf of all authors, upon submission. 
+
+### Journal financial and conflict-of-interest policies
+
+These policies apply to members of the Editorial Board and reviewers.
+
+The JPC depends strongly on the actual and perceived fairness of its review process. To that end, those involved in that process must declare potential conflicts of interest, and these must be adjudicated by either the Editor-in-Chief or the Board of Directors of the Society for Privacy and Confidentiality Research (SPCR). Furthermore, the SPCR is committed to the principle that there be no personal gain from Editorial Board service other than modest stipends to the Editor-in-Chief and Managing Editor.
+
+Conflicts of Interest
+
+A conflict of interest (COI) is a set of conditions under which the primary interest of JPC in publishing high-quality, high-impact papers may be, or may be perceived to be, influenced by secondary professional or personal interests. 
+
+In general, COIs involving JPC editors and authors fall into the following classes:
+
+1.	Individual relationships 
+a.	Current or past (within five years) professional relationships, for example, as collaborators, co-authors, Ph.D. students, and Ph.D. or postdoc advisors.
+b.	Current or past (within five years) personal relationships, for example, as family members, or conflict/rivalry.
+2.	Institutional relationships, principally from having the same current or past (within five years) employer.
+3.	Financial relationships, for example, as business partners, or financial interests, the latter excluding vicarious ownership through pooled investment products.
+
+Disclosure of Conflicts of Interest
+
+All conflicts involving Editorial Board members must be fully and promptly disclosed:
+
+•	In the case of Editorial Board members, to the Editor-in-Chief;
+•	In the case of the Editor-in-Chief, to the President of SPCR.
+
+Response to Disclosed Conflicts of Interest
+
+If the COI is disclosed by an Editorial Board member, the Editor-in-Chief will determine the response, which in general will be either:
+•	That the COI is not substantive, in which case the review process may proceed; or
+•	That the COI is substantive, and the paper in question will be re-assigned to another member of the Editorial Board who has no COI. In this case, the conflicted Editorial Board member may make no attempt, formal or informal, to influence the review process.
+
+If the COI is disclosed by the Editor-in-Chief, the President of the SPCR Board of Directors will instruct the Managing Editor to make all final decisions for the paper in question.
+
+Failure to Disclosure
+
+An Editor-in-Chief or Editorial Board member who fails to disclose a substantive COI will be removed immediately. The SPCR Board of Directors will determine whether further action, such as retraction of the paper, is warranted.
+
+COIs Involving Referees
+
+Requests to referees will include the following language: “if you feel there is any potential conflict of interest in your refereeing this paper because of your relationship with the author (s), whether professional, personal or financial, or for any other reason, please declare it. For additional guidance see [link to the JPC conflict of interest policy]. By accepting this invitation, you are asserting there is no potential conflict of interest.”
+
+For the policies that apply to the authors of submitted manuscripts see [JPC Disclosure Policy](https://{insert final location of this page}.
 
 ### Complaints and appeals
 
 Should authors have complaints about the behavior of any Journal editor, reviewer, or staff member, they should first attempt to contact the Managing Editor (see [Contact page](https://journalprivacyconfidentiality.org/index.php/jpc/about/contact)). Should that not resolve the issue, the complainant may contact [COPE](https://publicationethics.org) or the Managing Editor's employer. 
-
-### Journal policies on conflicts of interest / competing interests
-
-Editors who have a conflict of interest with a submission recuse themselves from the editorial process. An alternate editor is then assigned. Editors may themselves be authors on submissions to the Journal, but are excluded from all aspects of the editorial workflow. 
-
-Authors are encouraged, but not required to state any competing interests at the time of submission. 
 
 ### Journal policies on data sharing and reproducibility
 
 The Journal strongly encourages transparency. The Journal’s [Code and Data Availability Policy](https://journalprivacyconfidentiality.org/index.php/jpc/codedataavailabilitypolicy) is part of the [Submission Guidelines](https://journalprivacyconfidentiality.org/index.php/jpc/about/submissions).
 
 ### Other policies
+
 The Journal does not have explicit policies on ethical oversight or on intellectual property.
 
 ### Options for post-publication discussions and corrections

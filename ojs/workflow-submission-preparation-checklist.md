@@ -6,3 +6,4 @@
 - The submission has not been previously published, nor is it before another journal for consideration (or an explanation has been provided in Comments to the Editor).
 - The author(s) represent that the manuscript is their original work, that they  own the copyright to the work being submitted or are authorized by the copyright owner or owners to submit the article.
 - Each author is aware of the contents of the entire article and its submission status, and each author materially contributed to the creation of the paper.
+- Each author (or the corresponding author acting on behalf of all co-authors) must complete the JPC's financial and conflict-of-interest disclosure.
