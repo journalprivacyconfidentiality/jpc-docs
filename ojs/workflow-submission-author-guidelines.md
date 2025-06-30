@@ -1,6 +1,6 @@
 ### Fees
 
-There is no fee for submission. Effective April 1, 2025, The Journal charges a publication fee of $500 for each accepted manuscript. We rely on authors complying strictly with the guidelines below to facilitate copy-editing and ensuring high-quality publications.
+There is no fee for submission. Effective April 1, 2025, The Journal charges a publication fee of **$500** for each accepted manuscript. We rely on authors complying strictly with the guidelines below to facilitate copy-editing and ensuring high-quality publications.
 
 ### Files
 - In addition to the manuscript (in PDF format), authors should also submit as soon as possible, but no later than when submitting any revisions, a complete LaTeX archive (see below for styling), as a ZIP file.

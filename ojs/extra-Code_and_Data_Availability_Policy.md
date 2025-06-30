@@ -1,3 +1,5 @@
+https://journalprivacyconfidentiality.org/index.php/jpc/management/settings/website#setup/navigationMenus
+
 # Code and Data Availability Policy
 
 When submitting the manuscript, authors must provide a `Code and Data Availability Statement` describing compliance with the Journal's policy, outlined below. The editors will assess the declarations made in the statement prior to publication. The Journal's editors encourage authors to contact them if they believe they will encounter difficulties in complying with the policy. If the article is accepted for publication, the `Code and Data availability statement` will be published as a supplement to the final article. We outline the policy and required information below, as well as providing some guidance and examples on how to comply with this policy.
