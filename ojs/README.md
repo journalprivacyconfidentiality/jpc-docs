@@ -16,3 +16,9 @@ These are template documents for the content of the OJS system. Naming conventio
   - `Settings` -> `Website` -> `Setup` tab -> `Navigation` sub-tab
   - Under `Navigation`, choose the relevant menu (usually `Primary`). Click on the triangle, and choose `Edit`
   - You will be able to arrange the order of items, and add or remove items.
+
+## Additional tools
+
+- for some pages, we use the Fontawesome icons, using a "Kit".
+  - Configured in `Settings` -> `Website` -> `Plugins` -> `Custom Header`
+  - Fontawesome account: <https://fontawesome.com/account/general> under `techsupport@journalprivacyconfidentiality.org`
