@@ -26,7 +26,22 @@ https://github.com/journalprivacyconfidentiality/jpc-style/blob/7a97f43817b14df6
 
 Files should be in OJS as a ZIP file. 
 
-- If the author has not uploaded a zip file yet: request it via the OJS communication; when it is received, upload to OJS
+- If the author has not uploaded a zip file yet: request it via the OJS communication; when it is received, upload to OJS.
+
+- Email text for request, etc to include:
+  "Hello [AUTHOR(S)]
+
+As we are ready to prepare your paper for the journal, please upload your final LaTeX or Word documents for your paper. For LaTeX (preferred), please combine all required *tex and *bib files as a single ZIP. You can also share an Overleaf document instead.
+
+While preparing these files, please keep our formatting guidelines, available here - https://journalprivacyconfidentiality.org/index.php/jpc/about/submissions - in mind. Note that JPC requires DOI (or URL in absence of DOI) for each citation in references, please consider this when preparing your *bib.
+
+Please upload your source package to the OPC platform referencing your submission number [number] in the ZIP name.
+
+Thank you,
+
+[NAME]
+
+JPC copyeditor
 
 ## Step 1
 
