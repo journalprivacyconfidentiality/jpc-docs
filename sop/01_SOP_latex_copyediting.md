@@ -103,6 +103,7 @@ where `(URL)` is the complete URL of the linked Overleaf document.
   - All references should have URLs and/or DOIs, regardless of style. If there are not URL or DOI, check the bib file, some styles don't show a URL. 
     - If unclear, make a ticket and assign to Lars. 
     - If absent, request that the author provide an updatd bib file with DOI (preferred) or URL.
+    - If DOIs are not linking, try force by assuring \bibliographystyle{abbrvnat-jpc}.
 2) Check Functionality
   - Check the URLs for validity - Check that all clickable links lead to a valid web page that seems reasonable for the paper. 
   - flag URLs that are not properly layoutted, and any other layout problems (fix, or make a Github issue)
@@ -143,6 +144,8 @@ with reference to line numbers, or we can share the Overleaf document with you.
 %%% last changed 2018-06-29 =====================================
 ```
 The DOI suffix is the manuscript number. The `{subm}` entry should be determined from the editorial history. `{publ}` (published) will be determined once the article is assigned to an issue by the Managing Editor. 
+
+To assure JPC template appears correctly in header and footer, force use of 2024 Overleaf version by adjusting in "Settings"
 
 The document should compile cleanly. 
 
